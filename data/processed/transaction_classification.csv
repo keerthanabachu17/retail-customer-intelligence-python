@@ -1,0 +1,5 @@
+transaction_category,record_count,invoice_count,total_quantity,record_percentage
+Positive Quantity,524878,19960,5572420,97.81
+Cancellation Invoice,9251,3836,-275560,1.72
+Negative Quantity - Non-cancellation,1336,1336,-206957,0.25
+Non-positive Price,1176,821,72599,0.22

@@ -1,0 +1,8 @@
+segment,customer_count,average_recency,average_frequency,average_monetary,total_monetary,customer_percentage
+Potentially Inactive,1072,217.47,1.1,488.07,523208.53,24.71
+High-Value Loyal,941,12.98,11.21,6101.93,5741913.58,21.69
+Frequent Customers,565,85.44,5.47,2196.97,1241287.38,13.02
+Occasional Customers,555,52.84,1.61,608.02,337452.79,12.79
+Recent and Engaged,484,16.27,2.96,1088.77,526962.74,11.16
+Previously Active Customers,411,163.25,2.42,926.1,380626.75,9.47
+Recent Customers,310,18.67,1.25,437.93,135757.12,7.15

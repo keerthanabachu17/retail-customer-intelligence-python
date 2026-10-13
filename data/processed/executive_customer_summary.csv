@@ -1,0 +1,10 @@
+analysis_type,group_name,customers,customer_percentage,avg_recency_days,avg_frequency,avg_monetary,total_monetary
+RFM Segment,Potentially Inactive,1072,24.71,217.47,1.1,488.07,523208.53
+RFM Segment,High-Value Loyal,941,21.69,12.98,11.21,6101.93,5741913.58
+RFM Segment,Frequent Customers,565,13.02,85.44,5.47,2196.97,1241287.38
+RFM Segment,Occasional Customers,555,12.79,52.84,1.61,608.02,337452.79
+RFM Segment,Recent and Engaged,484,11.16,16.27,2.96,1088.77,526962.74
+RFM Segment,Previously Active Customers,411,9.47,163.25,2.42,926.1,380626.75
+RFM Segment,Recent Customers,310,7.15,18.67,1.25,437.93,135757.12
+K-Means Cluster,Cluster 0,1668,38.45,26.45,8.44,4535.74,7565611.8
+K-Means Cluster,Cluster 1,2670,61.55,134.67,1.67,494.98,1321597.09

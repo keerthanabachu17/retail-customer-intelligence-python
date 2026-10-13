@@ -1,0 +1,8 @@
+segment,customer_count,average_recency,average_frequency,average_monetary,total_monetary,customer_percentage,recommended_action
+Potentially Inactive,1072,217.47,1.1,488.07,523208.53,24.71,Consider targeted re-engagement campaigns
+High-Value Loyal,941,12.98,11.21,6101.93,5741913.58,21.69,Retain through loyalty benefits and personalised offers
+Frequent Customers,565,85.44,5.47,2196.97,1241287.38,13.02,Encourage repeat purchases and cross-selling
+Occasional Customers,555,52.84,1.61,608.02,337452.79,12.79,Encourage more frequent purchases
+Recent and Engaged,484,16.27,2.96,1088.77,526962.74,11.16,Nurture engagement and encourage another purchase
+Previously Active Customers,411,163.25,2.42,926.1,380626.75,9.47,Investigate reduced activity and consider win-back offers
+Recent Customers,310,18.67,1.25,437.93,135757.12,7.15,Encourage a second purchase

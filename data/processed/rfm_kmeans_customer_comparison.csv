@@ -1,0 +1,4339 @@
+customerid,segment,cluster
+12346,Potentially Inactive,0
+12347,High-Value Loyal,0
+12348,Frequent Customers,0
+12349,Recent Customers,1
+12350,Potentially Inactive,1
+12352,Frequent Customers,0
+12353,Potentially Inactive,1
+12354,Potentially Inactive,1
+12355,Potentially Inactive,1
+12356,Recent and Engaged,0
+12357,Occasional Customers,0
+12358,Recent Customers,0
+12359,Frequent Customers,0
+12360,Occasional Customers,0
+12361,Potentially Inactive,1
+12362,High-Value Loyal,0
+12363,Potentially Inactive,1
+12364,High-Value Loyal,0
+12365,Potentially Inactive,1
+12367,Recent Customers,1
+12370,Frequent Customers,0
+12371,Occasional Customers,1
+12372,Occasional Customers,1
+12373,Potentially Inactive,1
+12374,Recent Customers,1
+12375,Recent Customers,1
+12377,Potentially Inactive,1
+12378,Potentially Inactive,1
+12379,Potentially Inactive,1
+12380,High-Value Loyal,0
+12381,High-Value Loyal,0
+12383,Frequent Customers,0
+12384,Recent Customers,1
+12386,Potentially Inactive,1
+12388,High-Value Loyal,0
+12390,Potentially Inactive,1
+12391,Recent Customers,1
+12393,Frequent Customers,0
+12394,Occasional Customers,1
+12395,High-Value Loyal,0
+12397,Occasional Customers,0
+12398,Occasional Customers,1
+12399,Frequent Customers,1
+12401,Potentially Inactive,1
+12402,Potentially Inactive,1
+12403,Occasional Customers,1
+12405,Potentially Inactive,1
+12406,Recent Customers,0
+12407,Frequent Customers,0
+12408,High-Value Loyal,0
+12409,Previously Active Customers,0
+12410,Potentially Inactive,1
+12412,Previously Active Customers,1
+12413,Occasional Customers,1
+12414,Previously Active Customers,1
+12415,High-Value Loyal,0
+12417,High-Value Loyal,0
+12418,Potentially Inactive,1
+12420,Occasional Customers,1
+12421,Recent and Engaged,0
+12422,Previously Active Customers,1
+12423,High-Value Loyal,0
+12424,Potentially Inactive,1
+12425,Potentially Inactive,1
+12426,Potentially Inactive,1
+12427,Recent and Engaged,0
+12428,High-Value Loyal,0
+12429,High-Value Loyal,0
+12430,Occasional Customers,1
+12431,Frequent Customers,0
+12432,Frequent Customers,0
+12433,High-Value Loyal,0
+12434,Potentially Inactive,1
+12435,Potentially Inactive,0
+12436,Potentially Inactive,1
+12437,High-Value Loyal,0
+12438,Recent Customers,0
+12441,Potentially Inactive,1
+12442,Recent Customers,1
+12444,High-Value Loyal,0
+12445,Recent Customers,1
+12446,Occasional Customers,1
+12447,Potentially Inactive,1
+12448,Occasional Customers,1
+12449,High-Value Loyal,0
+12450,Potentially Inactive,1
+12451,High-Value Loyal,0
+12452,Recent Customers,1
+12453,Potentially Inactive,1
+12454,Occasional Customers,1
+12455,Frequent Customers,0
+12456,Occasional Customers,0
+12457,Frequent Customers,0
+12458,Occasional Customers,1
+12461,Potentially Inactive,1
+12462,Recent Customers,0
+12463,Frequent Customers,0
+12464,High-Value Loyal,0
+12465,Recent Customers,1
+12468,Potentially Inactive,1
+12471,High-Value Loyal,0
+12472,High-Value Loyal,0
+12473,High-Value Loyal,0
+12474,High-Value Loyal,0
+12475,Occasional Customers,1
+12476,High-Value Loyal,0
+12477,High-Value Loyal,0
+12478,Recent Customers,1
+12479,Recent Customers,1
+12480,High-Value Loyal,0
+12481,High-Value Loyal,0
+12483,High-Value Loyal,0
+12484,High-Value Loyal,0
+12488,Recent and Engaged,0
+12489,Potentially Inactive,1
+12490,High-Value Loyal,0
+12491,Occasional Customers,1
+12492,Occasional Customers,1
+12493,Potentially Inactive,1
+12494,High-Value Loyal,0
+12497,Potentially Inactive,1
+12498,Recent and Engaged,1
+12500,High-Value Loyal,0
+12501,Potentially Inactive,1
+12502,Frequent Customers,0
+12504,Recent Customers,1
+12506,Potentially Inactive,1
+12507,Previously Active Customers,1
+12508,Recent Customers,1
+12509,Potentially Inactive,1
+12510,Potentially Inactive,1
+12512,Occasional Customers,1
+12513,Potentially Inactive,1
+12514,Potentially Inactive,1
+12515,Potentially Inactive,1
+12516,Potentially Inactive,1
+12517,High-Value Loyal,0
+12518,High-Value Loyal,0
+12519,Occasional Customers,1
+12520,Frequent Customers,0
+12521,Potentially Inactive,1
+12522,Occasional Customers,1
+12523,High-Value Loyal,0
+12524,High-Value Loyal,0
+12526,Recent and Engaged,0
+12527,Previously Active Customers,1
+12528,High-Value Loyal,0
+12530,Frequent Customers,0
+12531,Recent Customers,1
+12532,Recent Customers,1
+12534,Potentially Inactive,1
+12535,Potentially Inactive,1
+12536,Occasional Customers,0
+12538,Recent Customers,1
+12539,High-Value Loyal,0
+12540,High-Value Loyal,0
+12541,Recent and Engaged,0
+12544,Occasional Customers,1
+12545,Potentially Inactive,1
+12546,Occasional Customers,1
+12547,Potentially Inactive,1
+12548,Potentially Inactive,1
+12550,Potentially Inactive,1
+12551,Potentially Inactive,1
+12552,Occasional Customers,1
+12553,High-Value Loyal,0
+12556,Occasional Customers,1
+12557,High-Value Loyal,0
+12558,Recent Customers,1
+12559,Potentially Inactive,1
+12560,Recent and Engaged,0
+12561,Potentially Inactive,1
+12562,High-Value Loyal,0
+12564,Potentially Inactive,1
+12565,Potentially Inactive,1
+12566,Potentially Inactive,1
+12567,High-Value Loyal,0
+12569,High-Value Loyal,0
+12571,Occasional Customers,1
+12572,Recent Customers,0
+12573,Potentially Inactive,1
+12574,Potentially Inactive,1
+12576,Frequent Customers,0
+12577,Occasional Customers,1
+12578,Recent Customers,0
+12579,Potentially Inactive,1
+12580,Potentially Inactive,1
+12581,Occasional Customers,1
+12582,Potentially Inactive,1
+12583,High-Value Loyal,0
+12584,High-Value Loyal,0
+12585,Potentially Inactive,1
+12586,Recent Customers,1
+12587,Recent Customers,1
+12588,Occasional Customers,1
+12589,Recent Customers,1
+12590,Potentially Inactive,0
+12591,Potentially Inactive,1
+12592,Potentially Inactive,1
+12593,Previously Active Customers,1
+12594,Frequent Customers,0
+12596,Occasional Customers,1
+12597,High-Value Loyal,0
+12598,High-Value Loyal,0
+12599,High-Value Loyal,0
+12600,High-Value Loyal,0
+12601,Frequent Customers,1
+12602,Occasional Customers,1
+12603,Recent Customers,1
+12604,Potentially Inactive,1
+12607,Occasional Customers,1
+12609,Previously Active Customers,1
+12610,High-Value Loyal,0
+12611,Occasional Customers,1
+12612,Potentially Inactive,1
+12613,Frequent Customers,0
+12614,Potentially Inactive,1
+12615,High-Value Loyal,0
+12616,Potentially Inactive,1
+12617,Recent Customers,1
+12618,Recent Customers,1
+12619,High-Value Loyal,0
+12620,Recent and Engaged,0
+12621,High-Value Loyal,0
+12622,Potentially Inactive,1
+12623,Potentially Inactive,1
+12624,Potentially Inactive,1
+12625,Potentially Inactive,1
+12626,High-Value Loyal,0
+12627,High-Value Loyal,0
+12628,Recent and Engaged,0
+12630,Recent Customers,0
+12631,Occasional Customers,1
+12633,Frequent Customers,0
+12635,Potentially Inactive,1
+12637,Frequent Customers,0
+12638,Occasional Customers,1
+12639,Potentially Inactive,1
+12640,Recent and Engaged,0
+12641,Potentially Inactive,1
+12642,Recent and Engaged,0
+12643,Frequent Customers,0
+12644,Potentially Inactive,1
+12645,Frequent Customers,0
+12646,Recent Customers,0
+12647,High-Value Loyal,0
+12648,Potentially Inactive,1
+12649,Previously Active Customers,1
+12650,Recent Customers,1
+12651,Potentially Inactive,1
+12652,Potentially Inactive,1
+12653,Potentially Inactive,1
+12654,Recent and Engaged,0
+12656,High-Value Loyal,0
+12657,High-Value Loyal,0
+12658,Recent Customers,1
+12659,Recent Customers,1
+12660,Recent Customers,1
+12662,High-Value Loyal,0
+12664,High-Value Loyal,0
+12665,Potentially Inactive,1
+12667,Occasional Customers,1
+12668,High-Value Loyal,0
+12669,Previously Active Customers,1
+12670,High-Value Loyal,0
+12672,Potentially Inactive,1
+12673,Recent Customers,0
+12674,Frequent Customers,0
+12676,High-Value Loyal,0
+12678,Frequent Customers,0
+12679,Frequent Customers,0
+12680,Recent and Engaged,0
+12681,High-Value Loyal,0
+12682,High-Value Loyal,0
+12683,High-Value Loyal,0
+12684,High-Value Loyal,0
+12685,High-Value Loyal,0
+12686,Potentially Inactive,1
+12688,Potentially Inactive,1
+12689,Recent Customers,1
+12690,Potentially Inactive,1
+12691,High-Value Loyal,0
+12693,Frequent Customers,1
+12694,Occasional Customers,1
+12695,Recent and Engaged,0
+12697,Recent and Engaged,0
+12700,High-Value Loyal,0
+12701,Potentially Inactive,1
+12702,Recent Customers,1
+12703,Occasional Customers,1
+12704,High-Value Loyal,0
+12705,High-Value Loyal,0
+12707,Potentially Inactive,1
+12708,High-Value Loyal,0
+12709,High-Value Loyal,0
+12710,Previously Active Customers,1
+12712,High-Value Loyal,0
+12713,Recent Customers,0
+12714,High-Value Loyal,0
+12715,Potentially Inactive,1
+12716,Recent Customers,0
+12717,Potentially Inactive,1
+12718,Occasional Customers,1
+12719,Recent Customers,0
+12720,High-Value Loyal,0
+12721,High-Value Loyal,0
+12722,Frequent Customers,1
+12723,Recent and Engaged,0
+12724,High-Value Loyal,0
+12725,Potentially Inactive,1
+12726,High-Value Loyal,0
+12727,High-Value Loyal,0
+12728,Frequent Customers,1
+12729,Potentially Inactive,1
+12731,High-Value Loyal,0
+12732,Potentially Inactive,1
+12733,Potentially Inactive,1
+12734,Potentially Inactive,1
+12735,Potentially Inactive,1
+12736,Potentially Inactive,1
+12738,Potentially Inactive,1
+12739,Potentially Inactive,1
+12740,Occasional Customers,1
+12743,Potentially Inactive,1
+12744,Frequent Customers,0
+12747,High-Value Loyal,0
+12748,High-Value Loyal,0
+12749,High-Value Loyal,0
+12750,Potentially Inactive,1
+12752,Potentially Inactive,1
+12753,High-Value Loyal,0
+12754,Previously Active Customers,1
+12755,Potentially Inactive,1
+12756,Potentially Inactive,1
+12757,High-Value Loyal,0
+12758,Potentially Inactive,1
+12759,Occasional Customers,0
+12762,Recent Customers,0
+12763,Potentially Inactive,1
+12764,Potentially Inactive,1
+12766,High-Value Loyal,0
+12769,Potentially Inactive,1
+12770,Potentially Inactive,1
+12772,Occasional Customers,1
+12775,High-Value Loyal,0
+12778,Recent and Engaged,0
+12779,Frequent Customers,0
+12781,Occasional Customers,1
+12782,High-Value Loyal,0
+12783,High-Value Loyal,0
+12784,Recent Customers,1
+12785,Potentially Inactive,1
+12787,Recent and Engaged,0
+12789,Occasional Customers,1
+12790,Potentially Inactive,1
+12791,Potentially Inactive,1
+12792,Potentially Inactive,1
+12793,Potentially Inactive,1
+12794,Occasional Customers,1
+12795,Recent Customers,1
+12797,Potentially Inactive,1
+12798,Recent and Engaged,0
+12802,Potentially Inactive,1
+12808,Occasional Customers,1
+12809,Potentially Inactive,1
+12811,Previously Active Customers,1
+12812,Occasional Customers,1
+12814,Potentially Inactive,1
+12815,Potentially Inactive,1
+12816,Potentially Inactive,1
+12817,Potentially Inactive,1
+12818,Potentially Inactive,1
+12820,High-Value Loyal,0
+12821,Potentially Inactive,1
+12822,Occasional Customers,1
+12823,Frequent Customers,0
+12824,Occasional Customers,1
+12826,High-Value Loyal,0
+12827,Recent and Engaged,0
+12828,High-Value Loyal,0
+12829,Potentially Inactive,1
+12830,Frequent Customers,0
+12831,Potentially Inactive,1
+12832,Recent Customers,1
+12833,Potentially Inactive,1
+12834,Potentially Inactive,1
+12836,Frequent Customers,0
+12837,Potentially Inactive,1
+12838,Occasional Customers,1
+12839,High-Value Loyal,0
+12840,Frequent Customers,0
+12841,High-Value Loyal,0
+12842,Occasional Customers,1
+12843,Frequent Customers,0
+12844,Recent Customers,1
+12845,Previously Active Customers,1
+12847,Recent Customers,1
+12849,Recent Customers,1
+12851,Potentially Inactive,1
+12852,Potentially Inactive,1
+12853,Frequent Customers,0
+12854,Previously Active Customers,1
+12855,Potentially Inactive,1
+12856,High-Value Loyal,0
+12857,Potentially Inactive,1
+12863,Occasional Customers,1
+12864,Potentially Inactive,1
+12865,Recent Customers,0
+12866,Potentially Inactive,1
+12867,High-Value Loyal,0
+12868,Frequent Customers,0
+12871,Potentially Inactive,1
+12872,Potentially Inactive,1
+12873,Potentially Inactive,1
+12875,Potentially Inactive,1
+12876,Occasional Customers,1
+12877,High-Value Loyal,0
+12878,Potentially Inactive,1
+12879,Occasional Customers,1
+12881,Potentially Inactive,1
+12882,Recent Customers,0
+12883,Recent and Engaged,0
+12884,Potentially Inactive,1
+12885,Occasional Customers,1
+12886,Occasional Customers,1
+12888,Potentially Inactive,1
+12890,Recent Customers,1
+12891,Previously Active Customers,1
+12893,Recent Customers,1
+12895,Occasional Customers,1
+12897,Potentially Inactive,1
+12901,High-Value Loyal,0
+12902,Potentially Inactive,1
+12904,Recent Customers,1
+12906,High-Value Loyal,0
+12908,Potentially Inactive,1
+12909,Frequent Customers,0
+12910,High-Value Loyal,0
+12912,High-Value Loyal,0
+12913,High-Value Loyal,0
+12915,Potentially Inactive,1
+12916,Frequent Customers,0
+12917,Potentially Inactive,1
+12919,High-Value Loyal,0
+12920,Recent Customers,1
+12921,High-Value Loyal,0
+12922,Potentially Inactive,1
+12923,Occasional Customers,1
+12924,Frequent Customers,1
+12925,Recent Customers,0
+12928,Frequent Customers,0
+12929,Potentially Inactive,1
+12930,Potentially Inactive,1
+12931,High-Value Loyal,0
+12933,Recent and Engaged,1
+12935,High-Value Loyal,0
+12936,High-Value Loyal,0
+12937,High-Value Loyal,0
+12938,Recent Customers,1
+12939,Frequent Customers,0
+12940,Occasional Customers,1
+12942,Previously Active Customers,1
+12944,Occasional Customers,1
+12945,Potentially Inactive,1
+12947,Frequent Customers,0
+12948,High-Value Loyal,0
+12949,High-Value Loyal,0
+12950,Recent and Engaged,0
+12951,High-Value Loyal,0
+12952,High-Value Loyal,0
+12953,Recent Customers,1
+12955,High-Value Loyal,0
+12956,Potentially Inactive,1
+12957,High-Value Loyal,0
+12962,Recent Customers,1
+12963,High-Value Loyal,0
+12965,Potentially Inactive,1
+12966,Recent Customers,1
+12967,Potentially Inactive,1
+12968,Potentially Inactive,1
+12970,Recent and Engaged,0
+12971,High-Value Loyal,0
+12974,Potentially Inactive,1
+12976,Potentially Inactive,1
+12977,Potentially Inactive,1
+12980,Frequent Customers,0
+12981,Recent Customers,1
+12982,Potentially Inactive,1
+12984,Recent Customers,1
+12985,Recent Customers,0
+12987,Potentially Inactive,1
+12988,Potentially Inactive,1
+12989,High-Value Loyal,0
+12990,Recent and Engaged,1
+12991,Recent Customers,1
+12993,Recent and Engaged,1
+12994,Recent and Engaged,0
+12995,Potentially Inactive,1
+12997,High-Value Loyal,0
+12999,Previously Active Customers,1
+13000,Previously Active Customers,1
+13001,High-Value Loyal,0
+13002,Potentially Inactive,1
+13003,Previously Active Customers,1
+13004,High-Value Loyal,0
+13005,Potentially Inactive,1
+13006,Occasional Customers,1
+13008,Potentially Inactive,1
+13011,Potentially Inactive,1
+13012,High-Value Loyal,0
+13013,High-Value Loyal,0
+13014,High-Value Loyal,0
+13015,Frequent Customers,0
+13016,Previously Active Customers,1
+13017,Recent Customers,1
+13018,High-Value Loyal,0
+13021,High-Value Loyal,0
+13023,Occasional Customers,1
+13026,High-Value Loyal,0
+13027,Frequent Customers,0
+13028,Recent Customers,1
+13029,Recent and Engaged,0
+13030,Recent Customers,0
+13032,Occasional Customers,1
+13033,Potentially Inactive,1
+13034,Occasional Customers,1
+13035,Potentially Inactive,1
+13037,Previously Active Customers,1
+13038,Previously Active Customers,1
+13040,Recent Customers,0
+13043,Potentially Inactive,1
+13044,Potentially Inactive,1
+13045,Potentially Inactive,1
+13046,Recent Customers,1
+13047,High-Value Loyal,0
+13048,High-Value Loyal,0
+13049,Occasional Customers,1
+13050,High-Value Loyal,0
+13052,Potentially Inactive,1
+13055,Previously Active Customers,1
+13058,Recent and Engaged,1
+13059,Potentially Inactive,1
+13060,Potentially Inactive,1
+13061,Potentially Inactive,1
+13062,Potentially Inactive,1
+13064,High-Value Loyal,0
+13065,Potentially Inactive,1
+13066,Recent Customers,1
+13067,Potentially Inactive,1
+13068,Recent Customers,1
+13069,High-Value Loyal,0
+13070,Potentially Inactive,1
+13072,Potentially Inactive,1
+13075,Potentially Inactive,1
+13077,Recent and Engaged,0
+13078,High-Value Loyal,0
+13079,Recent and Engaged,0
+13080,Potentially Inactive,1
+13081,High-Value Loyal,0
+13082,Frequent Customers,0
+13083,Recent Customers,1
+13085,Potentially Inactive,1
+13089,High-Value Loyal,0
+13090,High-Value Loyal,0
+13091,Recent Customers,1
+13092,Occasional Customers,1
+13093,Frequent Customers,0
+13094,High-Value Loyal,0
+13095,Occasional Customers,1
+13097,High-Value Loyal,0
+13098,High-Value Loyal,0
+13099,Potentially Inactive,1
+13101,Potentially Inactive,1
+13102,High-Value Loyal,0
+13103,Occasional Customers,1
+13104,High-Value Loyal,0
+13106,Potentially Inactive,1
+13107,Frequent Customers,0
+13108,Potentially Inactive,1
+13109,Occasional Customers,1
+13110,High-Value Loyal,0
+13113,High-Value Loyal,0
+13115,High-Value Loyal,0
+13116,Potentially Inactive,1
+13117,High-Value Loyal,0
+13118,High-Value Loyal,0
+13120,Potentially Inactive,1
+13121,Potentially Inactive,1
+13122,Potentially Inactive,1
+13124,Previously Active Customers,0
+13126,High-Value Loyal,0
+13127,Potentially Inactive,1
+13130,Potentially Inactive,1
+13131,Recent and Engaged,0
+13132,Potentially Inactive,1
+13133,Potentially Inactive,1
+13134,Frequent Customers,0
+13135,Potentially Inactive,1
+13136,Frequent Customers,0
+13137,High-Value Loyal,0
+13138,High-Value Loyal,0
+13139,High-Value Loyal,0
+13140,Previously Active Customers,1
+13141,Frequent Customers,0
+13142,Recent Customers,1
+13144,Potentially Inactive,1
+13145,Frequent Customers,1
+13146,Recent Customers,1
+13147,Recent and Engaged,0
+13148,High-Value Loyal,0
+13149,High-Value Loyal,0
+13151,Potentially Inactive,1
+13153,Recent Customers,1
+13155,Frequent Customers,0
+13157,Frequent Customers,0
+13158,Frequent Customers,1
+13159,High-Value Loyal,0
+13160,Recent Customers,1
+13161,Potentially Inactive,1
+13162,Frequent Customers,1
+13165,Occasional Customers,1
+13166,Potentially Inactive,1
+13167,Recent and Engaged,0
+13168,Frequent Customers,0
+13169,Occasional Customers,1
+13170,Recent Customers,1
+13171,Recent and Engaged,1
+13173,Recent Customers,1
+13174,Recent and Engaged,0
+13176,Occasional Customers,1
+13177,Occasional Customers,1
+13178,High-Value Loyal,0
+13182,Occasional Customers,1
+13183,High-Value Loyal,0
+13184,High-Value Loyal,0
+13185,Potentially Inactive,1
+13186,Occasional Customers,0
+13187,Potentially Inactive,1
+13188,Recent Customers,1
+13189,Recent Customers,1
+13192,Potentially Inactive,1
+13193,Occasional Customers,1
+13194,Potentially Inactive,1
+13196,High-Value Loyal,0
+13198,High-Value Loyal,0
+13199,High-Value Loyal,0
+13200,Recent and Engaged,0
+13203,Recent and Engaged,0
+13207,Recent Customers,1
+13208,Frequent Customers,0
+13209,High-Value Loyal,0
+13210,Potentially Inactive,1
+13211,Recent and Engaged,0
+13212,Recent and Engaged,0
+13213,Frequent Customers,0
+13216,Potentially Inactive,1
+13217,Previously Active Customers,1
+13218,Potentially Inactive,1
+13220,Frequent Customers,1
+13221,Potentially Inactive,1
+13223,Potentially Inactive,1
+13224,Occasional Customers,1
+13225,High-Value Loyal,0
+13226,Potentially Inactive,1
+13227,Potentially Inactive,1
+13228,Potentially Inactive,1
+13229,Potentially Inactive,1
+13230,High-Value Loyal,0
+13232,High-Value Loyal,0
+13233,Potentially Inactive,1
+13235,Potentially Inactive,1
+13236,Recent Customers,1
+13238,Recent and Engaged,0
+13239,Potentially Inactive,1
+13240,Frequent Customers,1
+13242,Previously Active Customers,1
+13243,Potentially Inactive,1
+13244,Potentially Inactive,1
+13245,Occasional Customers,1
+13246,High-Value Loyal,0
+13247,Recent and Engaged,0
+13248,Potentially Inactive,1
+13249,Previously Active Customers,1
+13253,Potentially Inactive,1
+13255,Recent Customers,1
+13258,Recent and Engaged,0
+13259,Occasional Customers,1
+13260,Occasional Customers,1
+13261,Potentially Inactive,1
+13262,Potentially Inactive,1
+13263,High-Value Loyal,0
+13265,Frequent Customers,0
+13266,High-Value Loyal,0
+13267,High-Value Loyal,0
+13268,High-Value Loyal,0
+13269,High-Value Loyal,0
+13270,Potentially Inactive,1
+13271,Occasional Customers,1
+13272,Recent Customers,1
+13273,Potentially Inactive,1
+13276,Occasional Customers,1
+13277,Recent and Engaged,1
+13278,Occasional Customers,1
+13279,Potentially Inactive,1
+13280,Previously Active Customers,1
+13282,Recent and Engaged,0
+13283,Occasional Customers,1
+13284,Potentially Inactive,1
+13285,High-Value Loyal,0
+13291,Potentially Inactive,1
+13292,Occasional Customers,1
+13294,Potentially Inactive,1
+13295,Potentially Inactive,1
+13296,Potentially Inactive,1
+13297,High-Value Loyal,0
+13298,Recent Customers,1
+13299,Potentially Inactive,1
+13300,Potentially Inactive,1
+13301,Frequent Customers,1
+13302,Potentially Inactive,1
+13304,Potentially Inactive,1
+13305,High-Value Loyal,0
+13307,Potentially Inactive,1
+13308,Recent and Engaged,0
+13309,High-Value Loyal,0
+13310,Recent and Engaged,0
+13311,Recent Customers,0
+13313,High-Value Loyal,0
+13314,Recent and Engaged,0
+13316,Frequent Customers,0
+13317,Frequent Customers,0
+13318,Recent and Engaged,0
+13319,High-Value Loyal,0
+13320,Frequent Customers,0
+13321,Potentially Inactive,1
+13322,Recent Customers,1
+13323,Recent and Engaged,0
+13324,Frequent Customers,0
+13325,Potentially Inactive,1
+13327,Frequent Customers,0
+13328,Potentially Inactive,1
+13329,Recent Customers,1
+13330,Previously Active Customers,1
+13332,Recent Customers,1
+13334,Previously Active Customers,0
+13336,Potentially Inactive,1
+13338,Potentially Inactive,1
+13339,Potentially Inactive,1
+13340,Frequent Customers,0
+13341,Potentially Inactive,1
+13343,Potentially Inactive,1
+13344,Occasional Customers,0
+13345,Potentially Inactive,1
+13347,Occasional Customers,1
+13348,Occasional Customers,1
+13349,Recent Customers,1
+13350,Recent Customers,0
+13351,Occasional Customers,1
+13352,Occasional Customers,1
+13354,Occasional Customers,1
+13355,Potentially Inactive,1
+13356,Potentially Inactive,1
+13357,Potentially Inactive,1
+13358,Potentially Inactive,1
+13359,Occasional Customers,1
+13362,High-Value Loyal,0
+13363,Recent Customers,1
+13364,Occasional Customers,1
+13365,Occasional Customers,0
+13366,Occasional Customers,1
+13368,Potentially Inactive,1
+13369,Potentially Inactive,1
+13370,Potentially Inactive,1
+13372,Potentially Inactive,1
+13373,Occasional Customers,0
+13375,Potentially Inactive,1
+13376,Previously Active Customers,1
+13379,Recent and Engaged,1
+13381,High-Value Loyal,0
+13382,Potentially Inactive,1
+13384,High-Value Loyal,0
+13385,Potentially Inactive,1
+13388,Potentially Inactive,1
+13389,Recent and Engaged,0
+13390,Potentially Inactive,1
+13391,Potentially Inactive,1
+13394,High-Value Loyal,0
+13395,Potentially Inactive,1
+13396,Recent Customers,1
+13397,Frequent Customers,0
+13398,Potentially Inactive,1
+13402,Potentially Inactive,1
+13403,Recent Customers,1
+13404,Recent Customers,0
+13405,Previously Active Customers,1
+13408,High-Value Loyal,0
+13410,High-Value Loyal,0
+13411,Potentially Inactive,1
+13414,Previously Active Customers,1
+13416,Occasional Customers,1
+13417,Recent Customers,0
+13418,High-Value Loyal,0
+13419,Occasional Customers,1
+13420,Potentially Inactive,1
+13421,Occasional Customers,1
+13422,Occasional Customers,1
+13425,Previously Active Customers,1
+13426,High-Value Loyal,0
+13427,Recent and Engaged,1
+13428,Recent Customers,1
+13429,High-Value Loyal,0
+13430,Recent Customers,1
+13431,Occasional Customers,1
+13434,Potentially Inactive,1
+13435,High-Value Loyal,0
+13436,Recent Customers,1
+13437,High-Value Loyal,0
+13439,Potentially Inactive,1
+13441,Potentially Inactive,1
+13447,Recent and Engaged,0
+13448,High-Value Loyal,0
+13449,Recent Customers,1
+13450,High-Value Loyal,0
+13451,High-Value Loyal,0
+13452,Potentially Inactive,1
+13453,Potentially Inactive,1
+13455,Recent Customers,1
+13456,High-Value Loyal,0
+13458,High-Value Loyal,0
+13460,Recent Customers,1
+13461,Occasional Customers,0
+13462,Potentially Inactive,1
+13464,Occasional Customers,1
+13466,Potentially Inactive,1
+13467,Recent Customers,0
+13468,High-Value Loyal,0
+13470,Potentially Inactive,1
+13471,High-Value Loyal,0
+13473,Occasional Customers,1
+13474,Potentially Inactive,1
+13475,Frequent Customers,1
+13476,Potentially Inactive,1
+13477,Frequent Customers,0
+13479,Potentially Inactive,1
+13481,Frequent Customers,0
+13482,Potentially Inactive,1
+13483,Occasional Customers,1
+13484,Potentially Inactive,1
+13485,Potentially Inactive,1
+13486,Previously Active Customers,1
+13487,Occasional Customers,1
+13488,High-Value Loyal,0
+13489,Previously Active Customers,1
+13491,Frequent Customers,0
+13492,Previously Active Customers,1
+13493,Potentially Inactive,1
+13494,Potentially Inactive,1
+13495,High-Value Loyal,0
+13496,Recent Customers,1
+13497,Potentially Inactive,1
+13499,High-Value Loyal,0
+13500,Recent and Engaged,0
+13501,Potentially Inactive,1
+13502,Recent and Engaged,1
+13503,Occasional Customers,1
+13504,Occasional Customers,1
+13505,Frequent Customers,0
+13506,Potentially Inactive,1
+13507,High-Value Loyal,0
+13508,Potentially Inactive,1
+13509,High-Value Loyal,0
+13510,High-Value Loyal,0
+13512,Potentially Inactive,1
+13513,Potentially Inactive,1
+13514,Potentially Inactive,1
+13515,Frequent Customers,1
+13516,Recent and Engaged,0
+13517,Occasional Customers,0
+13518,Potentially Inactive,1
+13519,Potentially Inactive,1
+13520,Frequent Customers,0
+13521,Recent and Engaged,0
+13522,Recent Customers,1
+13523,Frequent Customers,0
+13524,Frequent Customers,0
+13525,Recent Customers,1
+13527,Frequent Customers,0
+13529,Potentially Inactive,1
+13531,Potentially Inactive,1
+13532,Occasional Customers,1
+13533,Previously Active Customers,1
+13534,High-Value Loyal,0
+13536,High-Value Loyal,0
+13538,Frequent Customers,0
+13539,Previously Active Customers,1
+13544,Occasional Customers,1
+13546,Recent and Engaged,0
+13548,Potentially Inactive,1
+13549,Recent and Engaged,0
+13551,Potentially Inactive,1
+13552,Frequent Customers,0
+13555,Frequent Customers,0
+13557,Recent Customers,1
+13558,Recent and Engaged,0
+13560,Recent Customers,1
+13561,Potentially Inactive,1
+13562,Previously Active Customers,1
+13563,Potentially Inactive,1
+13564,Previously Active Customers,1
+13565,Recent Customers,1
+13566,Occasional Customers,1
+13568,Potentially Inactive,1
+13569,Recent Customers,1
+13570,Potentially Inactive,1
+13571,High-Value Loyal,0
+13572,Potentially Inactive,1
+13573,Occasional Customers,1
+13575,Recent and Engaged,0
+13576,High-Value Loyal,0
+13577,High-Value Loyal,0
+13579,Recent Customers,1
+13581,Potentially Inactive,1
+13583,Potentially Inactive,1
+13584,Potentially Inactive,1
+13587,Occasional Customers,1
+13588,High-Value Loyal,0
+13589,Recent Customers,1
+13590,High-Value Loyal,0
+13591,Occasional Customers,1
+13592,Occasional Customers,1
+13593,Frequent Customers,0
+13594,Occasional Customers,1
+13596,Recent Customers,0
+13598,Occasional Customers,1
+13599,High-Value Loyal,0
+13600,Potentially Inactive,1
+13601,Occasional Customers,1
+13602,Occasional Customers,1
+13603,Recent Customers,1
+13606,Recent and Engaged,1
+13607,Occasional Customers,1
+13610,High-Value Loyal,0
+13611,Previously Active Customers,1
+13614,High-Value Loyal,0
+13615,Potentially Inactive,1
+13617,Occasional Customers,1
+13618,Potentially Inactive,1
+13621,Potentially Inactive,1
+13623,Recent and Engaged,0
+13626,Potentially Inactive,1
+13627,Frequent Customers,0
+13629,High-Value Loyal,0
+13630,High-Value Loyal,0
+13631,Frequent Customers,0
+13632,High-Value Loyal,0
+13634,Frequent Customers,0
+13635,Occasional Customers,1
+13636,Frequent Customers,0
+13637,Occasional Customers,1
+13638,Recent Customers,1
+13639,Potentially Inactive,1
+13642,Potentially Inactive,1
+13643,Recent and Engaged,1
+13644,High-Value Loyal,0
+13645,Potentially Inactive,1
+13647,High-Value Loyal,0
+13649,Potentially Inactive,1
+13650,High-Value Loyal,0
+13651,Occasional Customers,1
+13652,Occasional Customers,1
+13654,Frequent Customers,0
+13655,Potentially Inactive,1
+13656,Potentially Inactive,1
+13657,Recent Customers,1
+13658,High-Value Loyal,0
+13659,Potentially Inactive,1
+13662,Previously Active Customers,1
+13663,Potentially Inactive,1
+13666,Occasional Customers,1
+13667,Potentially Inactive,1
+13668,High-Value Loyal,0
+13669,Occasional Customers,1
+13670,Potentially Inactive,1
+13672,Potentially Inactive,1
+13673,Recent Customers,1
+13675,Potentially Inactive,1
+13678,Potentially Inactive,1
+13680,High-Value Loyal,0
+13681,Recent and Engaged,0
+13682,Potentially Inactive,1
+13684,Potentially Inactive,1
+13685,High-Value Loyal,0
+13686,Potentially Inactive,1
+13689,Occasional Customers,1
+13690,Occasional Customers,1
+13692,Recent and Engaged,0
+13694,High-Value Loyal,0
+13695,High-Value Loyal,0
+13697,Occasional Customers,1
+13699,Potentially Inactive,1
+13700,High-Value Loyal,0
+13703,Potentially Inactive,1
+13704,High-Value Loyal,0
+13705,Recent and Engaged,0
+13706,Potentially Inactive,1
+13707,Potentially Inactive,1
+13708,Potentially Inactive,1
+13709,High-Value Loyal,0
+13710,Recent Customers,1
+13711,Potentially Inactive,1
+13712,Potentially Inactive,1
+13715,Frequent Customers,1
+13716,Potentially Inactive,1
+13717,High-Value Loyal,0
+13718,Potentially Inactive,1
+13719,High-Value Loyal,0
+13720,Frequent Customers,1
+13721,Occasional Customers,1
+13722,Previously Active Customers,1
+13723,Potentially Inactive,1
+13725,Frequent Customers,0
+13726,Occasional Customers,1
+13727,Recent Customers,1
+13728,Frequent Customers,0
+13730,Potentially Inactive,1
+13731,Potentially Inactive,1
+13732,Recent Customers,1
+13735,High-Value Loyal,0
+13736,Recent Customers,0
+13737,Potentially Inactive,1
+13739,Recent Customers,1
+13740,Potentially Inactive,1
+13741,Occasional Customers,1
+13742,High-Value Loyal,0
+13743,High-Value Loyal,0
+13744,Potentially Inactive,1
+13745,Potentially Inactive,1
+13747,Potentially Inactive,1
+13748,Frequent Customers,1
+13750,Frequent Customers,0
+13751,Potentially Inactive,1
+13752,Frequent Customers,0
+13753,Potentially Inactive,1
+13754,Potentially Inactive,1
+13755,High-Value Loyal,0
+13756,High-Value Loyal,0
+13758,High-Value Loyal,0
+13759,Occasional Customers,1
+13760,Occasional Customers,1
+13761,Occasional Customers,1
+13762,Potentially Inactive,1
+13763,Occasional Customers,1
+13764,Occasional Customers,1
+13767,High-Value Loyal,0
+13769,High-Value Loyal,0
+13771,Frequent Customers,0
+13772,Occasional Customers,0
+13774,Potentially Inactive,1
+13777,High-Value Loyal,0
+13778,Potentially Inactive,1
+13780,Recent Customers,1
+13781,Potentially Inactive,1
+13782,Recent and Engaged,0
+13784,High-Value Loyal,0
+13786,Potentially Inactive,1
+13787,Potentially Inactive,1
+13790,Recent Customers,1
+13791,Potentially Inactive,1
+13792,Occasional Customers,1
+13798,High-Value Loyal,0
+13799,Potentially Inactive,1
+13800,Potentially Inactive,1
+13801,Occasional Customers,1
+13802,Previously Active Customers,0
+13803,Potentially Inactive,1
+13804,High-Value Loyal,0
+13805,Occasional Customers,1
+13806,Occasional Customers,1
+13807,Potentially Inactive,1
+13808,High-Value Loyal,0
+13809,Potentially Inactive,1
+13810,Recent and Engaged,0
+13811,Previously Active Customers,1
+13812,Occasional Customers,1
+13813,Frequent Customers,0
+13814,Potentially Inactive,1
+13815,High-Value Loyal,0
+13816,Recent Customers,1
+13817,Recent Customers,1
+13819,Previously Active Customers,1
+13821,Potentially Inactive,1
+13822,Recent Customers,0
+13823,Recent Customers,1
+13824,High-Value Loyal,0
+13826,Potentially Inactive,1
+13827,Occasional Customers,1
+13828,Recent Customers,1
+13831,High-Value Loyal,0
+13832,Recent Customers,1
+13833,Potentially Inactive,1
+13835,Recent and Engaged,0
+13837,Potentially Inactive,1
+13838,Recent and Engaged,0
+13841,Potentially Inactive,1
+13842,Frequent Customers,0
+13844,Recent Customers,1
+13845,Occasional Customers,1
+13846,Recent and Engaged,0
+13848,Previously Active Customers,1
+13849,Occasional Customers,1
+13850,Potentially Inactive,1
+13851,Previously Active Customers,0
+13853,Occasional Customers,1
+13854,High-Value Loyal,0
+13856,Previously Active Customers,1
+13858,Occasional Customers,1
+13859,Potentially Inactive,1
+13860,High-Value Loyal,0
+13862,High-Value Loyal,0
+13863,Potentially Inactive,1
+13865,Frequent Customers,1
+13866,Potentially Inactive,1
+13867,Recent and Engaged,0
+13868,Recent Customers,0
+13869,Frequent Customers,0
+13870,High-Value Loyal,0
+13871,High-Value Loyal,0
+13873,Previously Active Customers,1
+13874,Potentially Inactive,1
+13875,Frequent Customers,0
+13876,Occasional Customers,1
+13877,Potentially Inactive,1
+13878,Occasional Customers,1
+13880,High-Value Loyal,0
+13881,High-Value Loyal,0
+13882,High-Value Loyal,0
+13883,High-Value Loyal,0
+13884,Recent and Engaged,0
+13885,Potentially Inactive,1
+13886,Occasional Customers,1
+13887,Potentially Inactive,1
+13888,Potentially Inactive,1
+13889,Potentially Inactive,1
+13890,High-Value Loyal,0
+13892,Recent and Engaged,0
+13893,Potentially Inactive,1
+13894,Recent and Engaged,1
+13895,High-Value Loyal,0
+13897,Occasional Customers,1
+13898,Potentially Inactive,1
+13899,Recent Customers,1
+13900,Previously Active Customers,1
+13901,Frequent Customers,0
+13904,Occasional Customers,1
+13908,Frequent Customers,0
+13911,Frequent Customers,0
+13914,Recent Customers,1
+13917,Occasional Customers,1
+13918,Occasional Customers,1
+13919,Occasional Customers,1
+13922,Potentially Inactive,1
+13923,Occasional Customers,1
+13924,High-Value Loyal,0
+13925,Frequent Customers,1
+13926,Recent Customers,1
+13927,Potentially Inactive,1
+13928,Recent and Engaged,0
+13929,Potentially Inactive,1
+13930,Occasional Customers,1
+13931,Potentially Inactive,1
+13932,Potentially Inactive,1
+13933,Potentially Inactive,1
+13934,Potentially Inactive,1
+13936,Potentially Inactive,1
+13937,Potentially Inactive,1
+13938,Occasional Customers,1
+13939,Recent and Engaged,1
+13940,Recent and Engaged,0
+13941,High-Value Loyal,0
+13946,Previously Active Customers,1
+13947,Occasional Customers,1
+13948,Potentially Inactive,1
+13949,High-Value Loyal,0
+13950,Recent and Engaged,0
+13951,Previously Active Customers,1
+13952,Potentially Inactive,1
+13953,High-Value Loyal,0
+13954,Recent and Engaged,0
+13955,Previously Active Customers,1
+13956,High-Value Loyal,0
+13959,Previously Active Customers,1
+13960,Recent and Engaged,1
+13962,Recent and Engaged,1
+13963,Frequent Customers,1
+13967,Potentially Inactive,1
+13969,High-Value Loyal,0
+13971,High-Value Loyal,0
+13972,Occasional Customers,1
+13973,Potentially Inactive,1
+13974,Occasional Customers,1
+13975,High-Value Loyal,0
+13976,Potentially Inactive,1
+13978,Recent and Engaged,1
+13979,Potentially Inactive,1
+13980,Occasional Customers,1
+13982,Frequent Customers,0
+13983,High-Value Loyal,0
+13984,Recent and Engaged,0
+13985,High-Value Loyal,0
+13986,Recent Customers,1
+13988,High-Value Loyal,0
+13989,Occasional Customers,1
+13990,Potentially Inactive,1
+13991,Recent and Engaged,0
+13992,Recent Customers,1
+13993,Frequent Customers,0
+13994,High-Value Loyal,0
+13995,High-Value Loyal,0
+13999,High-Value Loyal,0
+14000,Potentially Inactive,1
+14001,Occasional Customers,0
+14002,Previously Active Customers,1
+14004,Frequent Customers,0
+14005,High-Value Loyal,0
+14006,Previously Active Customers,1
+14009,Previously Active Customers,1
+14012,Potentially Inactive,1
+14013,Previously Active Customers,1
+14014,Potentially Inactive,1
+14015,Occasional Customers,1
+14016,Frequent Customers,0
+14019,Occasional Customers,0
+14020,Recent and Engaged,1
+14021,Previously Active Customers,1
+14022,Potentially Inactive,1
+14023,Recent and Engaged,0
+14024,Previously Active Customers,1
+14027,Occasional Customers,1
+14029,Occasional Customers,1
+14030,High-Value Loyal,0
+14031,High-Value Loyal,0
+14032,High-Value Loyal,0
+14034,Recent and Engaged,1
+14035,High-Value Loyal,0
+14036,Potentially Inactive,1
+14037,Previously Active Customers,1
+14038,Previously Active Customers,1
+14039,Occasional Customers,1
+14040,Frequent Customers,0
+14041,Potentially Inactive,1
+14044,Recent and Engaged,0
+14045,Frequent Customers,1
+14046,Potentially Inactive,1
+14047,High-Value Loyal,0
+14048,Potentially Inactive,1
+14049,High-Value Loyal,0
+14050,Recent and Engaged,1
+14051,High-Value Loyal,0
+14052,Recent Customers,1
+14053,Previously Active Customers,1
+14054,Occasional Customers,1
+14055,Potentially Inactive,1
+14056,High-Value Loyal,0
+14057,High-Value Loyal,0
+14059,Potentially Inactive,1
+14060,High-Value Loyal,0
+14062,High-Value Loyal,0
+14064,High-Value Loyal,0
+14066,Potentially Inactive,1
+14067,Occasional Customers,1
+14068,Potentially Inactive,1
+14071,High-Value Loyal,0
+14073,Recent Customers,1
+14075,Recent and Engaged,0
+14076,Potentially Inactive,1
+14077,Frequent Customers,1
+14078,Frequent Customers,0
+14079,Potentially Inactive,1
+14080,Recent Customers,1
+14081,Previously Active Customers,1
+14082,Potentially Inactive,1
+14083,High-Value Loyal,0
+14085,High-Value Loyal,0
+14087,Recent Customers,1
+14088,High-Value Loyal,0
+14089,Occasional Customers,1
+14090,Potentially Inactive,1
+14092,High-Value Loyal,0
+14093,Recent Customers,1
+14096,High-Value Loyal,0
+14098,Occasional Customers,1
+14099,High-Value Loyal,0
+14100,Potentially Inactive,1
+14101,Frequent Customers,0
+14102,High-Value Loyal,0
+14104,Previously Active Customers,1
+14105,Potentially Inactive,1
+14107,Frequent Customers,0
+14108,Recent and Engaged,1
+14109,Potentially Inactive,1
+14110,High-Value Loyal,0
+14111,Recent and Engaged,0
+14112,High-Value Loyal,0
+14113,High-Value Loyal,0
+14114,Previously Active Customers,1
+14116,High-Value Loyal,0
+14117,Potentially Inactive,1
+14121,High-Value Loyal,0
+14124,Potentially Inactive,1
+14125,Recent and Engaged,0
+14126,Recent and Engaged,0
+14127,Previously Active Customers,1
+14128,Occasional Customers,1
+14129,High-Value Loyal,0
+14130,Potentially Inactive,1
+14132,High-Value Loyal,0
+14133,Previously Active Customers,1
+14135,High-Value Loyal,0
+14138,Recent and Engaged,0
+14139,Occasional Customers,1
+14140,Recent and Engaged,0
+14141,Recent and Engaged,0
+14142,Potentially Inactive,1
+14143,Potentially Inactive,1
+14145,Frequent Customers,0
+14146,High-Value Loyal,0
+14147,Previously Active Customers,1
+14148,Potentially Inactive,1
+14149,Potentially Inactive,1
+14150,Occasional Customers,1
+14152,Previously Active Customers,1
+14154,Previously Active Customers,1
+14155,Potentially Inactive,1
+14156,High-Value Loyal,0
+14157,Recent and Engaged,1
+14158,Occasional Customers,1
+14159,High-Value Loyal,0
+14161,Previously Active Customers,1
+14162,Previously Active Customers,1
+14163,Frequent Customers,0
+14164,Occasional Customers,1
+14165,Potentially Inactive,1
+14167,Frequent Customers,1
+14171,Potentially Inactive,1
+14173,Recent and Engaged,0
+14174,Occasional Customers,1
+14175,Occasional Customers,0
+14176,Frequent Customers,1
+14177,Frequent Customers,1
+14178,High-Value Loyal,0
+14179,Occasional Customers,1
+14180,High-Value Loyal,0
+14184,Occasional Customers,1
+14185,Potentially Inactive,1
+14188,High-Value Loyal,0
+14189,High-Value Loyal,0
+14191,High-Value Loyal,0
+14193,Occasional Customers,1
+14194,High-Value Loyal,0
+14195,Previously Active Customers,1
+14196,Potentially Inactive,1
+14198,Recent and Engaged,0
+14199,Potentially Inactive,1
+14201,Frequent Customers,0
+14204,Recent Customers,1
+14205,Recent and Engaged,1
+14206,Potentially Inactive,1
+14208,Potentially Inactive,1
+14209,High-Value Loyal,0
+14210,Frequent Customers,0
+14211,Frequent Customers,0
+14212,Potentially Inactive,1
+14214,High-Value Loyal,0
+14215,High-Value Loyal,0
+14216,High-Value Loyal,0
+14217,High-Value Loyal,0
+14218,Occasional Customers,1
+14219,Recent Customers,1
+14220,Previously Active Customers,1
+14221,Frequent Customers,0
+14222,Potentially Inactive,1
+14223,Previously Active Customers,1
+14224,Frequent Customers,1
+14226,High-Value Loyal,0
+14227,High-Value Loyal,0
+14229,Occasional Customers,0
+14231,Previously Active Customers,1
+14232,Frequent Customers,0
+14233,Frequent Customers,0
+14234,Recent and Engaged,0
+14235,Frequent Customers,0
+14236,Previously Active Customers,1
+14237,Potentially Inactive,1
+14238,Potentially Inactive,1
+14239,Frequent Customers,0
+14240,Recent and Engaged,1
+14241,Potentially Inactive,1
+14242,Previously Active Customers,1
+14243,High-Value Loyal,0
+14245,Previously Active Customers,1
+14246,Previously Active Customers,1
+14247,Potentially Inactive,1
+14248,Potentially Inactive,1
+14250,Recent and Engaged,0
+14251,High-Value Loyal,0
+14256,Previously Active Customers,1
+14257,Frequent Customers,0
+14258,High-Value Loyal,0
+14259,Potentially Inactive,1
+14261,Occasional Customers,1
+14262,High-Value Loyal,0
+14264,Previously Active Customers,1
+14265,Previously Active Customers,1
+14267,Previously Active Customers,1
+14270,Potentially Inactive,1
+14271,Potentially Inactive,1
+14272,Previously Active Customers,1
+14273,Frequent Customers,1
+14276,Previously Active Customers,1
+14277,Recent and Engaged,0
+14280,Potentially Inactive,1
+14282,High-Value Loyal,0
+14284,Recent and Engaged,1
+14285,High-Value Loyal,0
+14286,Recent and Engaged,0
+14287,Recent and Engaged,1
+14288,Potentially Inactive,1
+14289,Recent and Engaged,0
+14290,High-Value Loyal,0
+14291,High-Value Loyal,0
+14292,High-Value Loyal,0
+14293,High-Value Loyal,0
+14295,Occasional Customers,1
+14297,High-Value Loyal,0
+14298,High-Value Loyal,0
+14299,High-Value Loyal,0
+14300,Recent Customers,1
+14301,Potentially Inactive,1
+14304,Potentially Inactive,1
+14305,Occasional Customers,0
+14306,Occasional Customers,1
+14307,Frequent Customers,0
+14309,High-Value Loyal,0
+14311,Potentially Inactive,1
+14312,Frequent Customers,0
+14314,Potentially Inactive,1
+14315,Frequent Customers,0
+14317,Occasional Customers,1
+14320,Previously Active Customers,1
+14321,High-Value Loyal,0
+14323,Previously Active Customers,1
+14326,Potentially Inactive,1
+14327,Potentially Inactive,1
+14329,High-Value Loyal,0
+14331,Previously Active Customers,1
+14332,Recent and Engaged,0
+14333,Occasional Customers,1
+14334,High-Value Loyal,0
+14335,Recent and Engaged,1
+14336,High-Value Loyal,0
+14338,Previously Active Customers,1
+14339,Potentially Inactive,1
+14340,Potentially Inactive,1
+14341,Frequent Customers,0
+14342,Recent and Engaged,0
+14344,Frequent Customers,0
+14345,Occasional Customers,1
+14346,Previously Active Customers,1
+14348,Potentially Inactive,1
+14349,Recent Customers,1
+14350,Potentially Inactive,1
+14351,Potentially Inactive,1
+14352,Frequent Customers,1
+14353,Potentially Inactive,1
+14354,Recent and Engaged,1
+14355,Potentially Inactive,1
+14356,Previously Active Customers,1
+14357,Occasional Customers,1
+14359,Recent and Engaged,0
+14360,High-Value Loyal,0
+14362,Recent Customers,1
+14364,Frequent Customers,0
+14367,High-Value Loyal,0
+14368,Potentially Inactive,1
+14371,Potentially Inactive,1
+14373,Potentially Inactive,1
+14375,Potentially Inactive,1
+14377,Previously Active Customers,1
+14379,Occasional Customers,1
+14381,Occasional Customers,1
+14382,Recent Customers,1
+14383,Occasional Customers,0
+14385,Recent and Engaged,1
+14386,Potentially Inactive,1
+14387,Recent and Engaged,0
+14388,High-Value Loyal,0
+14389,Occasional Customers,1
+14390,High-Value Loyal,0
+14393,Potentially Inactive,1
+14395,High-Value Loyal,0
+14396,Occasional Customers,1
+14397,High-Value Loyal,0
+14400,Potentially Inactive,1
+14401,High-Value Loyal,0
+14403,Frequent Customers,1
+14404,Frequent Customers,0
+14406,Potentially Inactive,1
+14407,Frequent Customers,0
+14408,High-Value Loyal,0
+14409,Frequent Customers,0
+14410,Frequent Customers,0
+14411,Potentially Inactive,1
+14412,Occasional Customers,1
+14413,Potentially Inactive,1
+14414,Frequent Customers,0
+14415,High-Value Loyal,0
+14416,Recent and Engaged,1
+14418,Recent and Engaged,0
+14419,High-Value Loyal,0
+14420,Potentially Inactive,1
+14421,Occasional Customers,1
+14422,High-Value Loyal,0
+14423,Potentially Inactive,1
+14424,Recent Customers,1
+14426,High-Value Loyal,0
+14427,Occasional Customers,1
+14428,High-Value Loyal,0
+14431,Potentially Inactive,1
+14432,High-Value Loyal,0
+14434,High-Value Loyal,0
+14436,Potentially Inactive,1
+14437,Potentially Inactive,1
+14438,Potentially Inactive,1
+14439,Potentially Inactive,1
+14440,High-Value Loyal,0
+14441,High-Value Loyal,0
+14442,Previously Active Customers,1
+14443,Frequent Customers,0
+14446,High-Value Loyal,0
+14447,High-Value Loyal,0
+14448,Recent and Engaged,1
+14449,Recent and Engaged,0
+14450,Previously Active Customers,1
+14451,Occasional Customers,1
+14452,Recent and Engaged,1
+14453,Potentially Inactive,1
+14456,High-Value Loyal,0
+14457,Potentially Inactive,1
+14459,Potentially Inactive,1
+14460,Previously Active Customers,1
+14461,Previously Active Customers,1
+14462,Frequent Customers,0
+14463,Previously Active Customers,1
+14465,Previously Active Customers,1
+14466,High-Value Loyal,0
+14467,Recent and Engaged,0
+14470,Recent and Engaged,1
+14472,Frequent Customers,0
+14473,Previously Active Customers,1
+14474,Occasional Customers,1
+14475,Occasional Customers,1
+14476,Potentially Inactive,1
+14477,High-Value Loyal,0
+14479,Previously Active Customers,1
+14480,Recent Customers,1
+14481,Previously Active Customers,1
+14482,High-Value Loyal,0
+14483,Potentially Inactive,1
+14484,Occasional Customers,1
+14485,Occasional Customers,1
+14487,High-Value Loyal,0
+14488,Occasional Customers,1
+14489,Potentially Inactive,1
+14491,Previously Active Customers,1
+14493,High-Value Loyal,0
+14494,Recent Customers,1
+14495,Occasional Customers,1
+14496,Previously Active Customers,1
+14497,Potentially Inactive,1
+14498,Frequent Customers,0
+14499,Recent and Engaged,0
+14500,Previously Active Customers,1
+14501,Previously Active Customers,1
+14502,High-Value Loyal,0
+14503,High-Value Loyal,0
+14504,Frequent Customers,1
+14505,High-Value Loyal,0
+14506,High-Value Loyal,0
+14507,High-Value Loyal,0
+14508,Recent and Engaged,1
+14511,High-Value Loyal,0
+14512,Previously Active Customers,1
+14513,Previously Active Customers,1
+14514,Occasional Customers,1
+14515,High-Value Loyal,0
+14517,Occasional Customers,1
+14518,Occasional Customers,1
+14520,Recent and Engaged,0
+14522,High-Value Loyal,0
+14523,Potentially Inactive,1
+14524,High-Value Loyal,0
+14525,High-Value Loyal,0
+14527,High-Value Loyal,0
+14528,Occasional Customers,1
+14529,Occasional Customers,1
+14530,High-Value Loyal,0
+14532,Frequent Customers,1
+14533,High-Value Loyal,0
+14534,High-Value Loyal,0
+14535,Occasional Customers,0
+14536,Potentially Inactive,1
+14537,Occasional Customers,1
+14538,Occasional Customers,1
+14539,Recent and Engaged,1
+14540,Recent and Engaged,0
+14541,Frequent Customers,0
+14542,Potentially Inactive,1
+14543,High-Value Loyal,0
+14544,Recent and Engaged,0
+14546,High-Value Loyal,0
+14547,High-Value Loyal,0
+14548,Previously Active Customers,1
+14549,Potentially Inactive,1
+14550,Recent and Engaged,0
+14551,Recent and Engaged,1
+14552,Potentially Inactive,1
+14553,Recent and Engaged,0
+14554,High-Value Loyal,0
+14555,Occasional Customers,1
+14557,Potentially Inactive,1
+14560,High-Value Loyal,0
+14561,Previously Active Customers,1
+14562,High-Value Loyal,0
+14565,Frequent Customers,0
+14566,Potentially Inactive,1
+14567,Occasional Customers,1
+14569,Recent Customers,1
+14570,Previously Active Customers,1
+14572,High-Value Loyal,0
+14573,Frequent Customers,0
+14576,Potentially Inactive,1
+14577,Recent and Engaged,0
+14578,Recent Customers,1
+14581,Recent Customers,1
+14582,Occasional Customers,1
+14583,High-Value Loyal,0
+14584,Frequent Customers,1
+14585,Occasional Customers,1
+14586,Potentially Inactive,1
+14587,High-Value Loyal,0
+14589,Potentially Inactive,1
+14591,High-Value Loyal,0
+14592,Occasional Customers,1
+14593,Recent and Engaged,1
+14594,Recent and Engaged,1
+14595,High-Value Loyal,0
+14597,Recent and Engaged,0
+14598,Occasional Customers,1
+14600,Potentially Inactive,1
+14601,Recent Customers,1
+14603,Potentially Inactive,1
+14606,High-Value Loyal,0
+14607,High-Value Loyal,0
+14608,High-Value Loyal,0
+14609,Frequent Customers,1
+14616,Previously Active Customers,1
+14618,Recent and Engaged,0
+14619,Potentially Inactive,1
+14620,Previously Active Customers,1
+14621,High-Value Loyal,0
+14622,Potentially Inactive,1
+14623,Recent and Engaged,0
+14624,Occasional Customers,1
+14625,Previously Active Customers,1
+14626,High-Value Loyal,0
+14628,Previously Active Customers,1
+14629,Recent and Engaged,0
+14631,Occasional Customers,1
+14632,Potentially Inactive,1
+14633,Potentially Inactive,1
+14636,Occasional Customers,1
+14638,Occasional Customers,1
+14639,Frequent Customers,0
+14640,High-Value Loyal,0
+14641,Recent Customers,1
+14642,Occasional Customers,1
+14643,Previously Active Customers,1
+14644,Occasional Customers,1
+14645,Previously Active Customers,1
+14646,High-Value Loyal,0
+14647,Potentially Inactive,1
+14649,High-Value Loyal,0
+14651,Occasional Customers,1
+14652,Potentially Inactive,1
+14653,High-Value Loyal,0
+14655,High-Value Loyal,0
+14656,Previously Active Customers,1
+14657,Recent and Engaged,0
+14658,Recent and Engaged,1
+14659,High-Value Loyal,0
+14660,Previously Active Customers,1
+14661,Recent Customers,1
+14662,Recent and Engaged,0
+14664,Recent and Engaged,1
+14665,Frequent Customers,0
+14666,Recent Customers,1
+14667,High-Value Loyal,0
+14669,Previously Active Customers,1
+14670,Previously Active Customers,1
+14672,Previously Active Customers,1
+14673,High-Value Loyal,0
+14675,Recent Customers,1
+14676,High-Value Loyal,0
+14680,High-Value Loyal,0
+14681,Occasional Customers,1
+14682,Previously Active Customers,1
+14684,High-Value Loyal,0
+14687,Potentially Inactive,1
+14688,High-Value Loyal,0
+14689,Potentially Inactive,1
+14690,Occasional Customers,1
+14691,High-Value Loyal,0
+14692,Frequent Customers,1
+14693,Potentially Inactive,1
+14696,High-Value Loyal,0
+14697,Previously Active Customers,1
+14698,High-Value Loyal,0
+14699,Potentially Inactive,1
+14700,Recent and Engaged,0
+14701,High-Value Loyal,0
+14702,High-Value Loyal,0
+14703,Recent Customers,1
+14704,High-Value Loyal,0
+14705,Potentially Inactive,1
+14708,Recent and Engaged,0
+14709,High-Value Loyal,0
+14710,Recent and Engaged,0
+14711,High-Value Loyal,0
+14712,Recent and Engaged,0
+14713,High-Value Loyal,0
+14714,Recent Customers,1
+14715,Recent and Engaged,0
+14716,Occasional Customers,1
+14719,High-Value Loyal,0
+14720,Recent and Engaged,0
+14722,Potentially Inactive,1
+14723,High-Value Loyal,0
+14725,Recent Customers,1
+14727,Potentially Inactive,1
+14729,Potentially Inactive,1
+14730,High-Value Loyal,0
+14731,Occasional Customers,1
+14732,High-Value Loyal,0
+14733,High-Value Loyal,0
+14735,High-Value Loyal,0
+14737,Recent and Engaged,0
+14738,Frequent Customers,0
+14739,High-Value Loyal,0
+14740,Previously Active Customers,1
+14741,High-Value Loyal,0
+14744,High-Value Loyal,0
+14745,Frequent Customers,0
+14747,Potentially Inactive,1
+14748,High-Value Loyal,0
+14752,Occasional Customers,1
+14753,Potentially Inactive,1
+14754,Occasional Customers,1
+14755,High-Value Loyal,0
+14756,Recent Customers,1
+14757,Potentially Inactive,1
+14758,Frequent Customers,1
+14759,Recent and Engaged,0
+14760,Potentially Inactive,1
+14761,Occasional Customers,1
+14762,Potentially Inactive,1
+14764,Occasional Customers,1
+14765,Recent and Engaged,1
+14766,High-Value Loyal,0
+14768,Recent and Engaged,1
+14769,High-Value Loyal,0
+14770,Previously Active Customers,1
+14772,Potentially Inactive,1
+14775,Occasional Customers,1
+14776,Frequent Customers,0
+14778,Previously Active Customers,1
+14779,Previously Active Customers,1
+14780,Occasional Customers,1
+14782,Potentially Inactive,1
+14784,Recent and Engaged,1
+14785,Recent and Engaged,1
+14788,Recent and Engaged,0
+14789,Recent Customers,1
+14790,Recent and Engaged,0
+14792,Occasional Customers,1
+14793,Recent Customers,1
+14794,High-Value Loyal,0
+14795,Potentially Inactive,1
+14796,High-Value Loyal,0
+14798,Occasional Customers,1
+14799,Occasional Customers,1
+14800,Frequent Customers,0
+14801,Occasional Customers,1
+14803,Previously Active Customers,1
+14804,Recent Customers,1
+14805,Recent and Engaged,0
+14806,Potentially Inactive,1
+14808,Frequent Customers,0
+14810,Frequent Customers,0
+14813,Previously Active Customers,1
+14815,Occasional Customers,1
+14816,Potentially Inactive,1
+14817,Previously Active Customers,1
+14818,Previously Active Customers,1
+14819,Occasional Customers,1
+14820,Recent and Engaged,0
+14821,Potentially Inactive,1
+14823,Previously Active Customers,1
+14824,High-Value Loyal,0
+14825,High-Value Loyal,0
+14828,Previously Active Customers,1
+14829,Recent and Engaged,0
+14830,Occasional Customers,1
+14834,High-Value Loyal,0
+14836,Recent and Engaged,1
+14837,Frequent Customers,0
+14840,Potentially Inactive,1
+14841,Frequent Customers,0
+14842,Frequent Customers,0
+14844,Frequent Customers,0
+14847,Potentially Inactive,1
+14849,High-Value Loyal,0
+14850,Potentially Inactive,1
+14851,Recent and Engaged,1
+14852,Frequent Customers,0
+14853,Recent and Engaged,1
+14854,Frequent Customers,0
+14855,Previously Active Customers,1
+14856,Occasional Customers,0
+14857,Occasional Customers,1
+14859,High-Value Loyal,0
+14860,Recent Customers,1
+14861,Occasional Customers,1
+14862,Recent and Engaged,1
+14863,Recent Customers,1
+14865,Recent and Engaged,1
+14866,High-Value Loyal,0
+14867,Previously Active Customers,1
+14868,High-Value Loyal,0
+14869,Recent and Engaged,0
+14870,Potentially Inactive,1
+14871,Recent and Engaged,0
+14873,Potentially Inactive,1
+14875,Previously Active Customers,1
+14878,High-Value Loyal,0
+14880,Previously Active Customers,1
+14881,Recent Customers,1
+14882,Recent and Engaged,1
+14883,Recent and Engaged,0
+14885,Potentially Inactive,1
+14886,Potentially Inactive,1
+14887,Potentially Inactive,1
+14888,Potentially Inactive,1
+14889,Potentially Inactive,1
+14890,Potentially Inactive,1
+14891,Previously Active Customers,1
+14893,Recent and Engaged,0
+14894,Potentially Inactive,1
+14895,High-Value Loyal,0
+14896,Previously Active Customers,1
+14897,High-Value Loyal,0
+14898,High-Value Loyal,0
+14901,High-Value Loyal,0
+14902,Recent Customers,1
+14903,High-Value Loyal,0
+14904,Recent and Engaged,0
+14905,Previously Active Customers,1
+14907,High-Value Loyal,0
+14908,Potentially Inactive,1
+14910,Recent and Engaged,0
+14911,High-Value Loyal,0
+14912,Recent and Engaged,1
+14913,Frequent Customers,0
+14915,Previously Active Customers,1
+14916,Frequent Customers,0
+14918,Previously Active Customers,1
+14920,Previously Active Customers,1
+14921,Recent and Engaged,1
+14923,Occasional Customers,1
+14924,Potentially Inactive,1
+14929,Recent Customers,1
+14930,Previously Active Customers,1
+14931,High-Value Loyal,0
+14932,Potentially Inactive,1
+14934,Previously Active Customers,1
+14935,Potentially Inactive,1
+14936,Frequent Customers,0
+14937,Occasional Customers,0
+14944,High-Value Loyal,0
+14946,Recent Customers,1
+14947,Previously Active Customers,1
+14948,High-Value Loyal,0
+14950,Recent Customers,1
+14951,Potentially Inactive,1
+14952,Frequent Customers,0
+14953,Recent Customers,1
+14954,Recent Customers,1
+14957,Potentially Inactive,1
+14958,Previously Active Customers,1
+14959,Frequent Customers,1
+14960,Recent and Engaged,1
+14961,High-Value Loyal,0
+14962,Potentially Inactive,1
+14963,High-Value Loyal,0
+14964,Potentially Inactive,1
+14965,Previously Active Customers,1
+14966,Recent Customers,1
+14967,Occasional Customers,1
+14968,Recent Customers,1
+14970,Frequent Customers,0
+14971,Occasional Customers,0
+14972,Potentially Inactive,1
+14973,Previously Active Customers,1
+14974,Occasional Customers,1
+14975,Occasional Customers,1
+14976,Frequent Customers,0
+14978,Frequent Customers,0
+14981,Potentially Inactive,1
+14984,Recent and Engaged,1
+14985,Previously Active Customers,1
+14987,Recent and Engaged,1
+14988,Potentially Inactive,1
+14995,Occasional Customers,1
+14997,Occasional Customers,1
+14998,Previously Active Customers,1
+15000,Occasional Customers,1
+15002,Frequent Customers,1
+15004,Potentially Inactive,1
+15005,High-Value Loyal,0
+15006,Occasional Customers,1
+15007,Potentially Inactive,1
+15009,Recent and Engaged,0
+15010,Occasional Customers,1
+15012,Occasional Customers,1
+15014,Occasional Customers,1
+15016,Potentially Inactive,1
+15017,Occasional Customers,1
+15018,Occasional Customers,1
+15019,Potentially Inactive,1
+15021,High-Value Loyal,0
+15022,Recent and Engaged,0
+15023,High-Value Loyal,0
+15024,High-Value Loyal,0
+15025,Occasional Customers,1
+15026,Previously Active Customers,1
+15027,High-Value Loyal,0
+15028,Recent and Engaged,0
+15030,Occasional Customers,1
+15031,Recent and Engaged,0
+15032,Previously Active Customers,1
+15033,High-Value Loyal,0
+15034,High-Value Loyal,0
+15035,Potentially Inactive,1
+15036,Previously Active Customers,1
+15038,Frequent Customers,0
+15039,High-Value Loyal,0
+15041,Potentially Inactive,1
+15042,Potentially Inactive,1
+15043,Recent Customers,1
+15044,High-Value Loyal,0
+15045,Previously Active Customers,1
+15046,High-Value Loyal,0
+15047,Potentially Inactive,1
+15048,Occasional Customers,1
+15049,Potentially Inactive,1
+15050,Recent and Engaged,0
+15051,Recent and Engaged,0
+15052,Potentially Inactive,1
+15053,Recent and Engaged,0
+15054,Recent and Engaged,1
+15057,Previously Active Customers,1
+15058,High-Value Loyal,0
+15059,Frequent Customers,0
+15060,Recent and Engaged,0
+15061,High-Value Loyal,0
+15062,Frequent Customers,1
+15063,Potentially Inactive,1
+15065,Frequent Customers,0
+15066,Occasional Customers,1
+15067,Previously Active Customers,1
+15068,Occasional Customers,1
+15069,Potentially Inactive,1
+15070,Potentially Inactive,1
+15071,Previously Active Customers,1
+15073,Recent and Engaged,0
+15074,Potentially Inactive,1
+15075,Potentially Inactive,1
+15076,Potentially Inactive,1
+15078,High-Value Loyal,0
+15079,Frequent Customers,1
+15081,Recent and Engaged,0
+15083,Potentially Inactive,1
+15087,Potentially Inactive,1
+15088,Recent and Engaged,1
+15089,High-Value Loyal,0
+15090,Potentially Inactive,1
+15091,Occasional Customers,1
+15092,Previously Active Customers,1
+15093,High-Value Loyal,0
+15095,Frequent Customers,1
+15096,Occasional Customers,1
+15097,Recent Customers,1
+15098,Previously Active Customers,0
+15099,Potentially Inactive,1
+15100,Previously Active Customers,1
+15101,Recent and Engaged,1
+15103,Recent and Engaged,1
+15104,Previously Active Customers,1
+15105,High-Value Loyal,0
+15106,High-Value Loyal,0
+15107,Previously Active Customers,1
+15108,Frequent Customers,1
+15109,Potentially Inactive,1
+15110,High-Value Loyal,0
+15111,Recent and Engaged,0
+15113,Recent and Engaged,0
+15114,High-Value Loyal,0
+15115,Recent Customers,1
+15116,High-Value Loyal,0
+15117,High-Value Loyal,0
+15118,Potentially Inactive,1
+15119,Potentially Inactive,1
+15120,Potentially Inactive,1
+15121,Occasional Customers,1
+15122,Previously Active Customers,1
+15123,Recent and Engaged,0
+15124,Recent and Engaged,1
+15125,High-Value Loyal,0
+15127,Occasional Customers,1
+15128,Frequent Customers,0
+15129,Frequent Customers,0
+15130,Potentially Inactive,1
+15132,High-Value Loyal,0
+15133,Previously Active Customers,1
+15134,High-Value Loyal,0
+15135,Potentially Inactive,1
+15136,High-Value Loyal,0
+15139,Previously Active Customers,1
+15140,Frequent Customers,0
+15142,Occasional Customers,1
+15143,Potentially Inactive,1
+15144,High-Value Loyal,0
+15145,High-Value Loyal,0
+15146,Previously Active Customers,1
+15147,Potentially Inactive,1
+15148,Recent Customers,1
+15149,Potentially Inactive,1
+15150,High-Value Loyal,0
+15152,High-Value Loyal,0
+15153,Recent Customers,1
+15154,Potentially Inactive,1
+15156,Recent and Engaged,0
+15157,Recent and Engaged,0
+15158,Occasional Customers,1
+15159,High-Value Loyal,0
+15160,Potentially Inactive,1
+15163,Recent and Engaged,1
+15164,Occasional Customers,1
+15165,Potentially Inactive,1
+15167,Potentially Inactive,1
+15168,Recent Customers,1
+15171,Potentially Inactive,1
+15172,High-Value Loyal,0
+15174,Potentially Inactive,1
+15175,Occasional Customers,1
+15178,Potentially Inactive,1
+15179,High-Value Loyal,0
+15180,Potentially Inactive,1
+15181,Occasional Customers,1
+15182,Previously Active Customers,1
+15184,Recent and Engaged,1
+15185,Occasional Customers,1
+15186,Recent and Engaged,1
+15187,High-Value Loyal,0
+15189,High-Value Loyal,0
+15192,Previously Active Customers,1
+15193,Occasional Customers,1
+15194,High-Value Loyal,0
+15195,Recent Customers,0
+15197,Recent and Engaged,0
+15198,Previously Active Customers,1
+15199,Frequent Customers,0
+15201,Frequent Customers,0
+15203,High-Value Loyal,0
+15204,Potentially Inactive,1
+15205,Previously Active Customers,1
+15206,Recent and Engaged,0
+15208,Recent and Engaged,0
+15210,Potentially Inactive,1
+15211,Occasional Customers,1
+15212,Potentially Inactive,1
+15213,Previously Active Customers,1
+15214,High-Value Loyal,0
+15215,Occasional Customers,1
+15216,Potentially Inactive,1
+15218,High-Value Loyal,0
+15219,Potentially Inactive,1
+15220,Frequent Customers,0
+15221,Potentially Inactive,1
+15222,Potentially Inactive,1
+15223,Previously Active Customers,1
+15224,Previously Active Customers,1
+15225,Potentially Inactive,1
+15226,Potentially Inactive,1
+15227,Frequent Customers,0
+15228,Frequent Customers,0
+15230,Previously Active Customers,1
+15232,Previously Active Customers,1
+15234,Potentially Inactive,1
+15235,Frequent Customers,0
+15236,Potentially Inactive,1
+15237,High-Value Loyal,0
+15238,Recent and Engaged,0
+15239,Recent and Engaged,0
+15240,Frequent Customers,0
+15241,Frequent Customers,0
+15243,Potentially Inactive,1
+15244,Occasional Customers,1
+15245,Previously Active Customers,1
+15246,Previously Active Customers,1
+15247,Potentially Inactive,1
+15249,High-Value Loyal,0
+15251,High-Value Loyal,0
+15252,Occasional Customers,1
+15253,Recent and Engaged,0
+15254,Potentially Inactive,1
+15255,Occasional Customers,1
+15256,Potentially Inactive,1
+15257,Potentially Inactive,1
+15258,Previously Active Customers,1
+15260,Frequent Customers,0
+15261,Potentially Inactive,1
+15262,Potentially Inactive,1
+15263,Potentially Inactive,1
+15264,Occasional Customers,1
+15265,Previously Active Customers,1
+15266,Potentially Inactive,1
+15267,High-Value Loyal,0
+15269,Recent Customers,1
+15270,High-Value Loyal,0
+15271,High-Value Loyal,0
+15272,Occasional Customers,1
+15274,Recent and Engaged,0
+15275,Occasional Customers,1
+15276,Occasional Customers,1
+15277,Occasional Customers,1
+15279,Potentially Inactive,1
+15280,Potentially Inactive,1
+15281,Frequent Customers,0
+15286,Occasional Customers,1
+15287,Recent and Engaged,1
+15288,Frequent Customers,0
+15289,Recent and Engaged,0
+15290,High-Value Loyal,0
+15291,High-Value Loyal,0
+15292,Potentially Inactive,1
+15296,Frequent Customers,0
+15297,Recent and Engaged,0
+15298,High-Value Loyal,0
+15299,Frequent Customers,0
+15300,Occasional Customers,1
+15301,Frequent Customers,0
+15303,Potentially Inactive,1
+15304,Frequent Customers,0
+15306,Occasional Customers,1
+15307,Potentially Inactive,1
+15308,Potentially Inactive,1
+15311,High-Value Loyal,0
+15312,Frequent Customers,1
+15313,Potentially Inactive,1
+15314,Potentially Inactive,1
+15315,Occasional Customers,1
+15316,Potentially Inactive,1
+15318,Recent Customers,1
+15319,Potentially Inactive,1
+15320,Occasional Customers,1
+15321,Occasional Customers,0
+15322,Potentially Inactive,1
+15325,Potentially Inactive,1
+15326,Potentially Inactive,1
+15327,Occasional Customers,1
+15329,Occasional Customers,1
+15330,Recent and Engaged,1
+15332,Frequent Customers,1
+15333,Potentially Inactive,1
+15334,Previously Active Customers,1
+15335,Occasional Customers,1
+15339,Occasional Customers,1
+15341,Potentially Inactive,1
+15342,Potentially Inactive,1
+15343,Potentially Inactive,1
+15344,Recent and Engaged,0
+15345,Occasional Customers,1
+15346,Potentially Inactive,1
+15347,Potentially Inactive,1
+15348,Potentially Inactive,1
+15349,Previously Active Customers,1
+15350,Potentially Inactive,1
+15351,High-Value Loyal,0
+15353,Previously Active Customers,1
+15355,Recent and Engaged,1
+15356,High-Value Loyal,0
+15358,High-Value Loyal,0
+15360,Occasional Customers,1
+15361,Potentially Inactive,1
+15363,Potentially Inactive,1
+15364,Previously Active Customers,1
+15365,High-Value Loyal,0
+15366,Previously Active Customers,1
+15367,Frequent Customers,0
+15368,Recent Customers,1
+15370,Frequent Customers,0
+15372,Potentially Inactive,1
+15373,High-Value Loyal,0
+15374,Potentially Inactive,1
+15376,Occasional Customers,0
+15379,Frequent Customers,0
+15380,High-Value Loyal,0
+15381,Previously Active Customers,1
+15382,High-Value Loyal,0
+15384,Previously Active Customers,1
+15385,Occasional Customers,1
+15386,Potentially Inactive,1
+15388,Potentially Inactive,1
+15389,Potentially Inactive,1
+15392,High-Value Loyal,0
+15393,Recent and Engaged,1
+15394,High-Value Loyal,0
+15395,Potentially Inactive,1
+15396,Potentially Inactive,1
+15397,Potentially Inactive,1
+15398,Recent and Engaged,0
+15399,Recent and Engaged,0
+15400,Frequent Customers,1
+15402,Previously Active Customers,1
+15405,Potentially Inactive,1
+15406,Recent and Engaged,1
+15407,Frequent Customers,0
+15408,Potentially Inactive,1
+15410,Frequent Customers,0
+15411,High-Value Loyal,0
+15412,Potentially Inactive,1
+15414,Recent and Engaged,0
+15415,Potentially Inactive,1
+15416,Frequent Customers,0
+15417,Potentially Inactive,1
+15419,Recent Customers,1
+15421,Frequent Customers,1
+15422,Previously Active Customers,1
+15423,Occasional Customers,1
+15424,Previously Active Customers,1
+15426,High-Value Loyal,0
+15427,Occasional Customers,0
+15428,Recent Customers,1
+15429,Recent and Engaged,1
+15432,Recent Customers,1
+15433,Previously Active Customers,1
+15434,High-Value Loyal,0
+15435,Recent Customers,1
+15436,Recent and Engaged,0
+15437,Potentially Inactive,1
+15438,Potentially Inactive,1
+15440,Occasional Customers,1
+15442,Potentially Inactive,1
+15443,High-Value Loyal,0
+15444,Recent and Engaged,0
+15445,Potentially Inactive,1
+15447,Potentially Inactive,1
+15448,Potentially Inactive,1
+15449,Recent and Engaged,0
+15450,Recent Customers,1
+15452,Recent and Engaged,1
+15453,High-Value Loyal,0
+15454,Potentially Inactive,1
+15456,Previously Active Customers,1
+15457,Potentially Inactive,1
+15458,Recent Customers,1
+15460,Potentially Inactive,1
+15462,Previously Active Customers,1
+15463,Recent Customers,1
+15464,Potentially Inactive,1
+15465,High-Value Loyal,0
+15466,Potentially Inactive,1
+15467,Recent and Engaged,0
+15468,Occasional Customers,1
+15469,Occasional Customers,1
+15471,Recent Customers,1
+15472,Potentially Inactive,1
+15473,High-Value Loyal,0
+15475,Potentially Inactive,1
+15478,Occasional Customers,1
+15480,Potentially Inactive,1
+15482,High-Value Loyal,0
+15483,Previously Active Customers,1
+15484,High-Value Loyal,0
+15485,Recent and Engaged,0
+15488,Potentially Inactive,1
+15489,Recent and Engaged,0
+15491,Frequent Customers,0
+15492,Recent and Engaged,1
+15493,High-Value Loyal,0
+15494,Recent and Engaged,0
+15497,Recent and Engaged,0
+15498,High-Value Loyal,0
+15500,High-Value Loyal,0
+15502,High-Value Loyal,0
+15503,Potentially Inactive,1
+15504,Potentially Inactive,1
+15505,Frequent Customers,0
+15506,Recent and Engaged,0
+15507,Potentially Inactive,1
+15508,Frequent Customers,1
+15510,Potentially Inactive,1
+15511,Recent and Engaged,0
+15512,Previously Active Customers,1
+15513,Frequent Customers,0
+15514,High-Value Loyal,0
+15516,Occasional Customers,1
+15517,Potentially Inactive,1
+15518,Frequent Customers,0
+15520,Recent Customers,1
+15521,Frequent Customers,0
+15522,Recent and Engaged,1
+15523,Potentially Inactive,1
+15524,Recent Customers,1
+15525,Recent and Engaged,0
+15526,Occasional Customers,1
+15527,High-Value Loyal,0
+15528,Potentially Inactive,1
+15529,High-Value Loyal,0
+15530,High-Value Loyal,0
+15531,Recent and Engaged,0
+15532,High-Value Loyal,0
+15533,Recent and Engaged,0
+15535,Frequent Customers,1
+15537,Potentially Inactive,1
+15539,Recent Customers,1
+15540,Recent Customers,1
+15541,Potentially Inactive,1
+15543,Potentially Inactive,1
+15544,High-Value Loyal,0
+15545,Occasional Customers,1
+15547,High-Value Loyal,0
+15549,Previously Active Customers,1
+15550,Recent and Engaged,0
+15551,Occasional Customers,1
+15552,Potentially Inactive,1
+15553,Occasional Customers,1
+15554,Potentially Inactive,1
+15555,High-Value Loyal,0
+15556,Recent Customers,1
+15557,Recent Customers,1
+15561,Recent and Engaged,0
+15562,Potentially Inactive,1
+15563,High-Value Loyal,0
+15565,Occasional Customers,1
+15567,Recent Customers,1
+15568,Recent and Engaged,0
+15569,Frequent Customers,0
+15570,High-Value Loyal,0
+15571,Recent and Engaged,0
+15572,High-Value Loyal,0
+15573,Recent and Engaged,1
+15574,Frequent Customers,1
+15576,Occasional Customers,1
+15577,Previously Active Customers,1
+15578,Potentially Inactive,1
+15579,Occasional Customers,1
+15581,Frequent Customers,0
+15582,Recent and Engaged,1
+15584,Recent and Engaged,0
+15585,Potentially Inactive,1
+15587,Frequent Customers,0
+15589,Previously Active Customers,1
+15592,Occasional Customers,1
+15593,Occasional Customers,1
+15594,High-Value Loyal,0
+15596,Frequent Customers,0
+15597,Occasional Customers,1
+15598,Occasional Customers,1
+15599,Recent and Engaged,1
+15601,High-Value Loyal,0
+15602,High-Value Loyal,0
+15603,Potentially Inactive,1
+15604,Occasional Customers,1
+15605,Frequent Customers,0
+15606,Frequent Customers,0
+15607,Potentially Inactive,1
+15608,High-Value Loyal,0
+15609,Potentially Inactive,1
+15610,Occasional Customers,1
+15611,High-Value Loyal,0
+15612,Occasional Customers,1
+15615,High-Value Loyal,0
+15618,Recent and Engaged,0
+15619,Recent Customers,1
+15620,Occasional Customers,0
+15621,High-Value Loyal,0
+15622,Frequent Customers,0
+15623,Potentially Inactive,1
+15624,Frequent Customers,1
+15625,Frequent Customers,1
+15626,Previously Active Customers,1
+15628,High-Value Loyal,0
+15630,Occasional Customers,1
+15632,High-Value Loyal,0
+15634,Recent Customers,1
+15636,Previously Active Customers,1
+15637,Occasional Customers,1
+15639,Potentially Inactive,1
+15640,High-Value Loyal,0
+15641,Frequent Customers,0
+15643,Previously Active Customers,1
+15644,Frequent Customers,1
+15645,Recent Customers,1
+15646,Previously Active Customers,1
+15648,Previously Active Customers,1
+15649,Previously Active Customers,1
+15651,Occasional Customers,1
+15652,Potentially Inactive,1
+15653,Previously Active Customers,1
+15654,Recent and Engaged,0
+15655,Potentially Inactive,1
+15656,Frequent Customers,1
+15657,Recent Customers,1
+15658,Frequent Customers,1
+15659,Occasional Customers,1
+15660,High-Value Loyal,0
+15661,Previously Active Customers,1
+15663,Potentially Inactive,1
+15664,Occasional Customers,1
+15665,Previously Active Customers,1
+15667,Occasional Customers,1
+15668,Potentially Inactive,1
+15669,Frequent Customers,1
+15670,Potentially Inactive,1
+15671,High-Value Loyal,0
+15673,Frequent Customers,0
+15674,Frequent Customers,0
+15675,Previously Active Customers,1
+15676,Recent and Engaged,0
+15677,Occasional Customers,1
+15678,Occasional Customers,1
+15679,Recent and Engaged,0
+15680,Recent and Engaged,0
+15681,High-Value Loyal,0
+15683,Potentially Inactive,1
+15687,High-Value Loyal,0
+15689,Previously Active Customers,1
+15690,Recent and Engaged,1
+15691,Potentially Inactive,1
+15692,Recent Customers,1
+15694,High-Value Loyal,0
+15695,Previously Active Customers,1
+15696,Frequent Customers,0
+15699,Recent Customers,1
+15700,Previously Active Customers,1
+15701,High-Value Loyal,0
+15703,Potentially Inactive,1
+15704,Frequent Customers,0
+15705,Potentially Inactive,1
+15706,Frequent Customers,1
+15707,Frequent Customers,0
+15708,Frequent Customers,0
+15709,Potentially Inactive,1
+15712,High-Value Loyal,0
+15713,Previously Active Customers,1
+15714,Recent and Engaged,1
+15716,Frequent Customers,1
+15717,Potentially Inactive,1
+15719,High-Value Loyal,0
+15720,Recent Customers,1
+15721,Recent Customers,1
+15722,Frequent Customers,0
+15723,Potentially Inactive,1
+15724,Previously Active Customers,1
+15725,Recent Customers,1
+15727,High-Value Loyal,0
+15729,Potentially Inactive,1
+15730,Occasional Customers,1
+15732,Previously Active Customers,1
+15733,Potentially Inactive,1
+15734,Previously Active Customers,1
+15737,High-Value Loyal,0
+15738,High-Value Loyal,0
+15739,Occasional Customers,1
+15740,Occasional Customers,1
+15743,Recent and Engaged,0
+15744,Potentially Inactive,1
+15745,High-Value Loyal,0
+15746,Potentially Inactive,1
+15747,Recent and Engaged,0
+15748,Occasional Customers,1
+15749,Previously Active Customers,0
+15750,High-Value Loyal,0
+15752,Frequent Customers,0
+15753,Potentially Inactive,1
+15754,Occasional Customers,1
+15755,High-Value Loyal,0
+15756,Frequent Customers,1
+15757,Occasional Customers,1
+15758,Recent Customers,1
+15759,Previously Active Customers,1
+15762,Occasional Customers,1
+15763,Recent and Engaged,1
+15764,Frequent Customers,0
+15766,Occasional Customers,1
+15768,Frequent Customers,1
+15769,High-Value Loyal,0
+15773,Recent Customers,1
+15774,Occasional Customers,1
+15775,Potentially Inactive,1
+15776,Potentially Inactive,1
+15777,Frequent Customers,1
+15780,Previously Active Customers,1
+15781,Recent and Engaged,1
+15782,High-Value Loyal,0
+15783,Recent Customers,1
+15785,High-Value Loyal,0
+15786,Frequent Customers,0
+15787,Recent and Engaged,0
+15789,Potentially Inactive,1
+15790,Recent Customers,1
+15791,Occasional Customers,1
+15793,High-Value Loyal,0
+15795,Potentially Inactive,1
+15796,High-Value Loyal,0
+15797,Frequent Customers,0
+15799,Frequent Customers,1
+15800,Previously Active Customers,1
+15801,Frequent Customers,1
+15802,Potentially Inactive,1
+15803,Occasional Customers,1
+15804,High-Value Loyal,0
+15805,High-Value Loyal,0
+15806,Frequent Customers,1
+15807,Frequent Customers,1
+15808,Frequent Customers,1
+15809,Frequent Customers,0
+15810,Frequent Customers,0
+15811,High-Value Loyal,0
+15812,Frequent Customers,0
+15813,Previously Active Customers,1
+15814,High-Value Loyal,0
+15815,Frequent Customers,0
+15819,Frequent Customers,0
+15820,Potentially Inactive,1
+15821,Occasional Customers,1
+15822,Recent and Engaged,0
+15823,Potentially Inactive,1
+15825,Potentially Inactive,1
+15826,Frequent Customers,0
+15827,Frequent Customers,0
+15829,Previously Active Customers,1
+15830,Occasional Customers,1
+15831,Frequent Customers,1
+15832,Potentially Inactive,1
+15834,Frequent Customers,0
+15835,Frequent Customers,0
+15836,Occasional Customers,1
+15837,Occasional Customers,1
+15838,High-Value Loyal,0
+15839,Frequent Customers,0
+15840,Occasional Customers,1
+15841,Frequent Customers,0
+15843,Potentially Inactive,1
+15844,Occasional Customers,1
+15845,High-Value Loyal,0
+15847,Occasional Customers,1
+15850,Recent and Engaged,1
+15852,Previously Active Customers,1
+15853,Occasional Customers,1
+15854,High-Value Loyal,0
+15855,Frequent Customers,1
+15856,High-Value Loyal,0
+15857,Recent Customers,1
+15858,High-Value Loyal,0
+15860,Frequent Customers,0
+15861,High-Value Loyal,0
+15862,Recent and Engaged,0
+15863,Recent and Engaged,1
+15864,High-Value Loyal,0
+15865,Frequent Customers,1
+15866,Potentially Inactive,1
+15867,High-Value Loyal,0
+15869,Previously Active Customers,1
+15870,Recent Customers,1
+15872,Recent and Engaged,1
+15874,Frequent Customers,0
+15877,Recent and Engaged,0
+15880,Potentially Inactive,1
+15881,Frequent Customers,1
+15882,Frequent Customers,1
+15883,Recent and Engaged,0
+15885,Previously Active Customers,1
+15886,Occasional Customers,1
+15888,Potentially Inactive,1
+15889,Previously Active Customers,1
+15891,Potentially Inactive,1
+15894,Previously Active Customers,1
+15895,Potentially Inactive,1
+15897,Previously Active Customers,1
+15898,High-Value Loyal,0
+15899,Potentially Inactive,1
+15900,Recent Customers,1
+15901,Recent and Engaged,1
+15903,High-Value Loyal,0
+15904,Recent Customers,1
+15906,High-Value Loyal,0
+15907,Recent and Engaged,0
+15909,Potentially Inactive,1
+15910,High-Value Loyal,0
+15912,Previously Active Customers,1
+15916,High-Value Loyal,0
+15917,Potentially Inactive,1
+15918,Previously Active Customers,1
+15919,Recent and Engaged,1
+15920,Previously Active Customers,1
+15921,Potentially Inactive,1
+15922,Potentially Inactive,1
+15923,Potentially Inactive,1
+15925,Potentially Inactive,1
+15930,Occasional Customers,1
+15932,High-Value Loyal,0
+15933,High-Value Loyal,0
+15935,Previously Active Customers,1
+15937,Occasional Customers,1
+15938,Previously Active Customers,1
+15939,Frequent Customers,0
+15940,Potentially Inactive,1
+15942,Potentially Inactive,1
+15944,Potentially Inactive,1
+15945,Potentially Inactive,1
+15947,Potentially Inactive,1
+15948,Recent and Engaged,0
+15949,Recent and Engaged,1
+15950,High-Value Loyal,0
+15951,Recent and Engaged,0
+15952,Frequent Customers,0
+15953,High-Value Loyal,0
+15955,High-Value Loyal,0
+15957,Recent Customers,1
+15958,Potentially Inactive,1
+15963,Recent and Engaged,1
+15965,Recent and Engaged,0
+15967,Recent and Engaged,1
+15969,Recent and Engaged,0
+15970,Potentially Inactive,1
+15971,High-Value Loyal,0
+15973,Potentially Inactive,1
+15974,Frequent Customers,0
+15975,Potentially Inactive,1
+15976,Previously Active Customers,1
+15977,Recent and Engaged,0
+15978,Potentially Inactive,1
+15980,Frequent Customers,0
+15981,High-Value Loyal,0
+15983,High-Value Loyal,0
+15984,High-Value Loyal,0
+15985,Previously Active Customers,1
+15986,Recent Customers,1
+15987,High-Value Loyal,0
+15988,Recent Customers,1
+15990,Occasional Customers,1
+15992,Recent Customers,1
+15993,High-Value Loyal,0
+15994,Occasional Customers,1
+15996,Frequent Customers,0
+15998,Frequent Customers,0
+16000,High-Value Loyal,0
+16003,High-Value Loyal,0
+16005,Recent and Engaged,0
+16006,Potentially Inactive,1
+16007,Frequent Customers,0
+16008,Recent and Engaged,1
+16009,High-Value Loyal,0
+16010,Previously Active Customers,1
+16011,High-Value Loyal,0
+16012,Frequent Customers,0
+16013,High-Value Loyal,0
+16014,Frequent Customers,1
+16015,Recent and Engaged,0
+16016,High-Value Loyal,0
+16017,Occasional Customers,1
+16018,Occasional Customers,1
+16019,Frequent Customers,0
+16020,Recent and Engaged,0
+16022,Potentially Inactive,1
+16023,Frequent Customers,1
+16024,Recent Customers,1
+16025,Recent Customers,1
+16026,Occasional Customers,1
+16027,Frequent Customers,0
+16029,Frequent Customers,0
+16030,Potentially Inactive,1
+16031,Previously Active Customers,1
+16033,High-Value Loyal,0
+16034,Previously Active Customers,1
+16036,Previously Active Customers,1
+16037,Frequent Customers,1
+16038,Recent and Engaged,0
+16040,Frequent Customers,1
+16041,High-Value Loyal,0
+16042,High-Value Loyal,0
+16043,Frequent Customers,0
+16045,Frequent Customers,1
+16048,Previously Active Customers,1
+16049,Frequent Customers,1
+16050,Potentially Inactive,1
+16052,Occasional Customers,1
+16053,Recent and Engaged,1
+16054,Potentially Inactive,1
+16055,Potentially Inactive,1
+16056,Occasional Customers,1
+16057,High-Value Loyal,0
+16059,Frequent Customers,0
+16062,High-Value Loyal,0
+16063,Potentially Inactive,1
+16065,Potentially Inactive,1
+16066,High-Value Loyal,0
+16070,Recent and Engaged,1
+16071,Occasional Customers,1
+16072,Potentially Inactive,1
+16073,Potentially Inactive,1
+16076,High-Value Loyal,0
+16078,Potentially Inactive,1
+16079,High-Value Loyal,0
+16080,Previously Active Customers,1
+16081,Frequent Customers,0
+16083,Previously Active Customers,1
+16084,Potentially Inactive,1
+16085,High-Value Loyal,0
+16086,Frequent Customers,0
+16091,Previously Active Customers,1
+16092,Frequent Customers,1
+16093,Potentially Inactive,1
+16094,High-Value Loyal,0
+16096,Potentially Inactive,1
+16097,Potentially Inactive,1
+16098,Frequent Customers,0
+16099,Frequent Customers,1
+16101,Occasional Customers,1
+16102,Frequent Customers,0
+16103,High-Value Loyal,0
+16104,Occasional Customers,1
+16105,Potentially Inactive,1
+16106,Occasional Customers,1
+16107,High-Value Loyal,0
+16108,Potentially Inactive,1
+16109,Previously Active Customers,1
+16110,Frequent Customers,0
+16112,Previously Active Customers,1
+16113,Potentially Inactive,1
+16114,Potentially Inactive,1
+16115,High-Value Loyal,0
+16116,Potentially Inactive,1
+16117,Potentially Inactive,1
+16119,Recent and Engaged,1
+16120,Frequent Customers,0
+16121,Occasional Customers,1
+16122,Frequent Customers,1
+16123,Occasional Customers,1
+16124,Potentially Inactive,1
+16125,Potentially Inactive,1
+16126,High-Value Loyal,0
+16127,Occasional Customers,1
+16128,High-Value Loyal,0
+16131,Frequent Customers,0
+16133,High-Value Loyal,0
+16134,Recent and Engaged,1
+16135,Potentially Inactive,1
+16136,Frequent Customers,1
+16139,Recent and Engaged,0
+16140,Occasional Customers,1
+16141,Potentially Inactive,1
+16142,Potentially Inactive,1
+16143,High-Value Loyal,0
+16144,Potentially Inactive,1
+16145,High-Value Loyal,0
+16146,Frequent Customers,1
+16147,Potentially Inactive,1
+16148,Potentially Inactive,1
+16149,Recent and Engaged,1
+16150,Frequent Customers,0
+16152,Potentially Inactive,1
+16153,Frequent Customers,0
+16156,High-Value Loyal,0
+16157,Recent and Engaged,0
+16159,Potentially Inactive,1
+16160,Occasional Customers,1
+16161,High-Value Loyal,0
+16162,Potentially Inactive,1
+16163,Previously Active Customers,1
+16164,Recent and Engaged,0
+16168,High-Value Loyal,0
+16169,High-Value Loyal,0
+16170,Frequent Customers,0
+16171,Occasional Customers,1
+16172,Frequent Customers,0
+16173,High-Value Loyal,0
+16174,Frequent Customers,1
+16175,Frequent Customers,1
+16177,Occasional Customers,1
+16178,Potentially Inactive,1
+16179,Occasional Customers,1
+16180,Frequent Customers,0
+16181,Potentially Inactive,1
+16182,Frequent Customers,0
+16183,Occasional Customers,1
+16184,Frequent Customers,0
+16185,Recent and Engaged,1
+16186,High-Value Loyal,0
+16187,High-Value Loyal,0
+16188,Frequent Customers,0
+16189,Recent and Engaged,1
+16190,Occasional Customers,1
+16191,High-Value Loyal,0
+16193,Potentially Inactive,1
+16198,Potentially Inactive,1
+16200,Recent and Engaged,0
+16201,High-Value Loyal,0
+16202,Potentially Inactive,1
+16203,Frequent Customers,1
+16204,Recent Customers,1
+16205,Recent and Engaged,0
+16206,Frequent Customers,1
+16207,Recent Customers,1
+16208,Occasional Customers,1
+16209,Frequent Customers,0
+16210,High-Value Loyal,0
+16211,Potentially Inactive,1
+16212,Recent and Engaged,1
+16213,Potentially Inactive,1
+16214,Frequent Customers,1
+16215,Potentially Inactive,1
+16216,Potentially Inactive,1
+16217,Previously Active Customers,1
+16218,High-Value Loyal,0
+16221,Frequent Customers,1
+16222,Potentially Inactive,1
+16224,Frequent Customers,0
+16225,Frequent Customers,0
+16226,Previously Active Customers,1
+16227,Potentially Inactive,1
+16229,Previously Active Customers,1
+16230,Previously Active Customers,1
+16232,Frequent Customers,0
+16233,Frequent Customers,1
+16235,Frequent Customers,0
+16236,Potentially Inactive,1
+16239,Occasional Customers,1
+16240,Recent and Engaged,0
+16241,High-Value Loyal,0
+16242,High-Value Loyal,0
+16243,Occasional Customers,1
+16244,Previously Active Customers,1
+16245,High-Value Loyal,0
+16247,Potentially Inactive,1
+16248,Occasional Customers,1
+16249,Frequent Customers,0
+16250,Previously Active Customers,1
+16253,Occasional Customers,0
+16255,High-Value Loyal,0
+16256,Potentially Inactive,1
+16257,Potentially Inactive,1
+16258,Frequent Customers,0
+16260,Occasional Customers,1
+16261,Recent and Engaged,0
+16265,High-Value Loyal,0
+16266,Frequent Customers,0
+16268,Occasional Customers,1
+16270,Potentially Inactive,1
+16271,High-Value Loyal,0
+16272,Potentially Inactive,1
+16274,Potentially Inactive,1
+16275,Potentially Inactive,1
+16276,Potentially Inactive,1
+16278,Potentially Inactive,1
+16279,High-Value Loyal,0
+16281,Potentially Inactive,1
+16282,Potentially Inactive,1
+16283,High-Value Loyal,0
+16284,Recent and Engaged,1
+16287,Potentially Inactive,1
+16292,Potentially Inactive,1
+16293,High-Value Loyal,0
+16295,High-Value Loyal,0
+16297,Potentially Inactive,1
+16298,Recent and Engaged,1
+16302,Potentially Inactive,1
+16303,High-Value Loyal,0
+16305,Potentially Inactive,1
+16306,Frequent Customers,1
+16308,Frequent Customers,0
+16309,Previously Active Customers,1
+16311,Recent and Engaged,1
+16313,Recent and Engaged,1
+16315,Potentially Inactive,1
+16316,Frequent Customers,0
+16317,Frequent Customers,1
+16318,Occasional Customers,1
+16319,Potentially Inactive,1
+16320,Previously Active Customers,1
+16321,Previously Active Customers,1
+16322,Recent and Engaged,0
+16323,Potentially Inactive,1
+16324,Previously Active Customers,1
+16325,Frequent Customers,1
+16326,High-Value Loyal,0
+16327,High-Value Loyal,0
+16330,Recent and Engaged,1
+16332,High-Value Loyal,0
+16333,High-Value Loyal,0
+16337,Occasional Customers,1
+16338,Potentially Inactive,1
+16339,Potentially Inactive,1
+16340,Potentially Inactive,1
+16341,High-Value Loyal,0
+16342,Previously Active Customers,1
+16343,Recent and Engaged,1
+16344,Potentially Inactive,1
+16345,Occasional Customers,1
+16347,Recent and Engaged,0
+16348,Frequent Customers,0
+16349,Potentially Inactive,1
+16350,High-Value Loyal,0
+16351,Potentially Inactive,1
+16352,Recent and Engaged,1
+16353,High-Value Loyal,0
+16354,Occasional Customers,1
+16356,Previously Active Customers,1
+16357,Frequent Customers,1
+16358,High-Value Loyal,0
+16359,High-Value Loyal,0
+16360,High-Value Loyal,0
+16361,Recent and Engaged,0
+16362,Frequent Customers,0
+16363,Occasional Customers,1
+16364,Recent and Engaged,1
+16365,High-Value Loyal,0
+16366,Recent Customers,1
+16367,Occasional Customers,1
+16368,Recent and Engaged,0
+16369,High-Value Loyal,0
+16370,Frequent Customers,1
+16372,Occasional Customers,1
+16374,Occasional Customers,1
+16376,Recent and Engaged,0
+16377,Potentially Inactive,1
+16378,Previously Active Customers,1
+16379,High-Value Loyal,0
+16380,Occasional Customers,1
+16383,Previously Active Customers,1
+16384,Previously Active Customers,1
+16385,Frequent Customers,1
+16386,Recent and Engaged,1
+16387,Potentially Inactive,1
+16389,Frequent Customers,0
+16392,Potentially Inactive,1
+16393,High-Value Loyal,0
+16394,Frequent Customers,0
+16395,Frequent Customers,0
+16398,Previously Active Customers,1
+16399,Recent and Engaged,1
+16400,Potentially Inactive,1
+16401,High-Value Loyal,0
+16402,Previously Active Customers,1
+16403,Potentially Inactive,1
+16404,Occasional Customers,1
+16405,Previously Active Customers,1
+16406,Recent Customers,1
+16407,High-Value Loyal,0
+16409,Frequent Customers,0
+16411,Recent and Engaged,1
+16412,Occasional Customers,1
+16413,Occasional Customers,1
+16414,Recent and Engaged,1
+16415,Occasional Customers,1
+16416,High-Value Loyal,0
+16418,Frequent Customers,1
+16419,Frequent Customers,0
+16422,High-Value Loyal,0
+16423,Recent Customers,1
+16424,Potentially Inactive,1
+16425,Potentially Inactive,1
+16426,High-Value Loyal,0
+16427,Previously Active Customers,1
+16429,Potentially Inactive,1
+16430,Occasional Customers,1
+16431,Frequent Customers,1
+16432,Occasional Customers,1
+16433,Recent Customers,1
+16434,High-Value Loyal,0
+16438,Recent and Engaged,0
+16440,High-Value Loyal,0
+16441,Occasional Customers,1
+16442,Recent and Engaged,0
+16444,Frequent Customers,1
+16445,Occasional Customers,1
+16446,Recent and Engaged,0
+16447,Potentially Inactive,1
+16448,Potentially Inactive,1
+16449,Previously Active Customers,1
+16450,Potentially Inactive,1
+16451,Potentially Inactive,1
+16454,Occasional Customers,1
+16455,Frequent Customers,0
+16456,Frequent Customers,0
+16457,Potentially Inactive,1
+16458,High-Value Loyal,0
+16460,Recent and Engaged,1
+16461,Potentially Inactive,1
+16462,Previously Active Customers,1
+16463,High-Value Loyal,0
+16464,High-Value Loyal,0
+16466,Frequent Customers,0
+16468,Potentially Inactive,1
+16469,Recent and Engaged,0
+16470,Frequent Customers,1
+16471,Potentially Inactive,1
+16473,Previously Active Customers,1
+16474,High-Value Loyal,0
+16475,Frequent Customers,1
+16477,Frequent Customers,0
+16478,Recent and Engaged,1
+16479,Recent and Engaged,1
+16480,Potentially Inactive,1
+16482,Recent Customers,1
+16483,Potentially Inactive,1
+16484,Previously Active Customers,1
+16485,Potentially Inactive,1
+16488,Frequent Customers,1
+16491,Occasional Customers,1
+16493,Frequent Customers,0
+16494,Potentially Inactive,1
+16495,Recent and Engaged,0
+16496,High-Value Loyal,0
+16497,Frequent Customers,0
+16498,Previously Active Customers,1
+16499,Previously Active Customers,1
+16500,Recent and Engaged,0
+16503,Frequent Customers,1
+16504,Recent Customers,1
+16505,Recent Customers,1
+16506,Recent and Engaged,1
+16509,Potentially Inactive,1
+16510,Potentially Inactive,1
+16511,Recent and Engaged,0
+16513,Recent and Engaged,0
+16515,Frequent Customers,0
+16516,Recent Customers,1
+16517,Potentially Inactive,1
+16518,Occasional Customers,1
+16519,Recent and Engaged,1
+16520,Frequent Customers,1
+16523,High-Value Loyal,0
+16525,High-Value Loyal,0
+16526,Potentially Inactive,1
+16527,Potentially Inactive,1
+16528,Recent Customers,1
+16529,Potentially Inactive,1
+16531,High-Value Loyal,0
+16532,High-Value Loyal,0
+16533,High-Value Loyal,0
+16535,Recent Customers,1
+16536,Potentially Inactive,1
+16539,High-Value Loyal,0
+16542,Occasional Customers,1
+16545,Potentially Inactive,1
+16546,Previously Active Customers,1
+16549,High-Value Loyal,0
+16550,Frequent Customers,0
+16551,Frequent Customers,1
+16552,Previously Active Customers,1
+16553,Frequent Customers,0
+16554,Frequent Customers,1
+16555,Occasional Customers,1
+16556,Frequent Customers,0
+16557,Recent and Engaged,1
+16558,High-Value Loyal,0
+16560,Recent and Engaged,1
+16561,Recent and Engaged,0
+16563,Occasional Customers,1
+16565,Potentially Inactive,1
+16566,Recent and Engaged,0
+16567,Previously Active Customers,1
+16569,Recent Customers,1
+16570,High-Value Loyal,0
+16571,High-Value Loyal,0
+16572,Frequent Customers,1
+16573,Previously Active Customers,1
+16574,Occasional Customers,1
+16581,Potentially Inactive,1
+16582,Potentially Inactive,1
+16583,Potentially Inactive,1
+16584,Previously Active Customers,1
+16586,Potentially Inactive,1
+16587,Potentially Inactive,1
+16589,Occasional Customers,1
+16591,Occasional Customers,1
+16592,High-Value Loyal,0
+16593,Occasional Customers,1
+16594,Potentially Inactive,1
+16595,Occasional Customers,1
+16596,Recent and Engaged,1
+16597,Recent Customers,1
+16598,Potentially Inactive,1
+16600,Recent and Engaged,0
+16601,Occasional Customers,1
+16602,Occasional Customers,1
+16603,Previously Active Customers,1
+16607,High-Value Loyal,0
+16609,High-Value Loyal,0
+16610,Potentially Inactive,1
+16611,Potentially Inactive,1
+16612,Frequent Customers,0
+16613,Occasional Customers,1
+16614,Potentially Inactive,1
+16616,Recent and Engaged,1
+16617,Potentially Inactive,1
+16618,High-Value Loyal,0
+16619,Potentially Inactive,1
+16620,Recent and Engaged,1
+16621,Frequent Customers,1
+16623,Potentially Inactive,1
+16624,Previously Active Customers,1
+16625,Potentially Inactive,1
+16626,High-Value Loyal,0
+16627,Potentially Inactive,1
+16628,High-Value Loyal,0
+16629,Previously Active Customers,1
+16633,High-Value Loyal,0
+16634,Previously Active Customers,1
+16637,Frequent Customers,0
+16638,High-Value Loyal,0
+16639,High-Value Loyal,0
+16641,Potentially Inactive,1
+16642,Recent and Engaged,0
+16643,Potentially Inactive,1
+16644,Previously Active Customers,1
+16647,Previously Active Customers,1
+16648,Occasional Customers,1
+16650,Occasional Customers,1
+16652,Frequent Customers,0
+16653,Recent and Engaged,0
+16654,Frequent Customers,1
+16655,High-Value Loyal,0
+16656,High-Value Loyal,0
+16657,Recent and Engaged,0
+16658,Potentially Inactive,1
+16659,Potentially Inactive,1
+16660,High-Value Loyal,0
+16665,Potentially Inactive,1
+16666,Recent Customers,1
+16667,Occasional Customers,1
+16668,Recent and Engaged,0
+16669,High-Value Loyal,0
+16670,High-Value Loyal,0
+16671,High-Value Loyal,0
+16672,High-Value Loyal,0
+16674,Occasional Customers,1
+16676,Frequent Customers,0
+16678,High-Value Loyal,0
+16679,Potentially Inactive,1
+16680,Occasional Customers,1
+16681,Frequent Customers,0
+16682,High-Value Loyal,0
+16684,High-Value Loyal,0
+16685,Occasional Customers,1
+16686,Frequent Customers,0
+16688,High-Value Loyal,0
+16689,Previously Active Customers,1
+16690,Previously Active Customers,1
+16692,Previously Active Customers,1
+16693,Occasional Customers,1
+16696,Frequent Customers,1
+16697,Potentially Inactive,1
+16698,Previously Active Customers,1
+16700,High-Value Loyal,0
+16701,High-Value Loyal,0
+16705,High-Value Loyal,0
+16706,Frequent Customers,1
+16708,Occasional Customers,1
+16709,Frequent Customers,0
+16710,High-Value Loyal,0
+16711,High-Value Loyal,0
+16712,High-Value Loyal,0
+16713,High-Value Loyal,0
+16714,Frequent Customers,1
+16715,Potentially Inactive,1
+16716,Previously Active Customers,1
+16717,High-Value Loyal,0
+16718,Potentially Inactive,1
+16719,High-Value Loyal,0
+16720,Recent Customers,1
+16721,Potentially Inactive,1
+16722,High-Value Loyal,0
+16723,Previously Active Customers,1
+16725,Frequent Customers,1
+16726,High-Value Loyal,0
+16727,Potentially Inactive,1
+16728,Frequent Customers,0
+16729,Frequent Customers,0
+16730,Frequent Customers,1
+16732,Recent Customers,1
+16734,Frequent Customers,1
+16735,Frequent Customers,0
+16737,Occasional Customers,1
+16738,Potentially Inactive,1
+16739,Potentially Inactive,1
+16742,Occasional Customers,1
+16743,High-Value Loyal,0
+16744,High-Value Loyal,0
+16745,Frequent Customers,0
+16746,High-Value Loyal,0
+16747,Occasional Customers,1
+16748,High-Value Loyal,0
+16750,Frequent Customers,0
+16751,Recent Customers,1
+16752,Potentially Inactive,1
+16753,Occasional Customers,1
+16754,Potentially Inactive,1
+16755,Frequent Customers,1
+16756,Potentially Inactive,1
+16757,Potentially Inactive,1
+16758,Occasional Customers,1
+16759,Recent and Engaged,0
+16761,Potentially Inactive,1
+16762,High-Value Loyal,0
+16763,Potentially Inactive,1
+16764,High-Value Loyal,0
+16765,Potentially Inactive,1
+16766,Previously Active Customers,1
+16767,High-Value Loyal,0
+16768,Occasional Customers,1
+16769,Potentially Inactive,1
+16770,Frequent Customers,0
+16771,Frequent Customers,0
+16773,Occasional Customers,1
+16774,Frequent Customers,1
+16775,High-Value Loyal,0
+16776,Occasional Customers,1
+16777,Previously Active Customers,1
+16778,Previously Active Customers,1
+16779,High-Value Loyal,0
+16780,Previously Active Customers,1
+16781,Potentially Inactive,1
+16782,High-Value Loyal,0
+16784,Recent Customers,1
+16788,Previously Active Customers,1
+16789,Recent Customers,1
+16790,High-Value Loyal,0
+16791,High-Value Loyal,0
+16792,Previously Active Customers,1
+16793,Occasional Customers,1
+16794,High-Value Loyal,0
+16795,Potentially Inactive,1
+16796,Potentially Inactive,1
+16800,Recent Customers,1
+16801,Frequent Customers,1
+16803,Occasional Customers,1
+16804,Recent and Engaged,1
+16805,Previously Active Customers,1
+16806,Frequent Customers,1
+16807,Frequent Customers,1
+16808,Previously Active Customers,1
+16809,Recent and Engaged,0
+16810,Potentially Inactive,1
+16811,Recent and Engaged,0
+16812,Potentially Inactive,1
+16813,High-Value Loyal,0
+16814,High-Value Loyal,0
+16816,Previously Active Customers,1
+16817,High-Value Loyal,0
+16818,High-Value Loyal,0
+16820,Potentially Inactive,1
+16823,Potentially Inactive,1
+16824,Recent and Engaged,1
+16825,Occasional Customers,1
+16826,Occasional Customers,1
+16828,Previously Active Customers,1
+16829,Potentially Inactive,1
+16830,Occasional Customers,1
+16832,Previously Active Customers,1
+16833,High-Value Loyal,0
+16834,Potentially Inactive,1
+16835,Previously Active Customers,1
+16836,Occasional Customers,1
+16837,High-Value Loyal,0
+16838,Previously Active Customers,1
+16839,High-Value Loyal,0
+16841,Frequent Customers,0
+16842,Frequent Customers,1
+16843,Frequent Customers,0
+16846,Occasional Customers,1
+16847,Occasional Customers,1
+16848,Occasional Customers,1
+16849,Potentially Inactive,1
+16850,Potentially Inactive,1
+16851,Recent and Engaged,0
+16852,Recent and Engaged,1
+16855,Recent and Engaged,1
+16856,Recent Customers,1
+16858,Potentially Inactive,1
+16859,Previously Active Customers,1
+16861,Occasional Customers,1
+16863,Recent and Engaged,1
+16866,Previously Active Customers,1
+16869,Recent and Engaged,0
+16871,High-Value Loyal,0
+16872,Frequent Customers,1
+16873,High-Value Loyal,0
+16875,Frequent Customers,0
+16877,Recent and Engaged,0
+16878,Potentially Inactive,1
+16880,High-Value Loyal,0
+16881,Occasional Customers,1
+16882,Frequent Customers,1
+16883,Previously Active Customers,1
+16884,Occasional Customers,1
+16885,Recent and Engaged,1
+16887,Occasional Customers,1
+16889,Frequent Customers,1
+16891,Recent and Engaged,0
+16892,Recent and Engaged,0
+16893,Potentially Inactive,1
+16895,Occasional Customers,1
+16897,Previously Active Customers,1
+16898,Recent and Engaged,1
+16899,High-Value Loyal,0
+16900,Recent and Engaged,0
+16902,Potentially Inactive,1
+16903,Recent Customers,1
+16904,High-Value Loyal,0
+16905,High-Value Loyal,0
+16906,Frequent Customers,1
+16907,Recent and Engaged,0
+16909,Potentially Inactive,1
+16910,High-Value Loyal,0
+16912,High-Value Loyal,0
+16913,Potentially Inactive,1
+16914,Occasional Customers,1
+16915,Recent and Engaged,0
+16916,Recent and Engaged,1
+16917,Potentially Inactive,1
+16918,Frequent Customers,0
+16919,Frequent Customers,0
+16921,Occasional Customers,1
+16923,High-Value Loyal,0
+16924,Recent and Engaged,0
+16926,Potentially Inactive,1
+16927,Frequent Customers,1
+16928,Frequent Customers,0
+16929,High-Value Loyal,0
+16930,Recent and Engaged,1
+16931,High-Value Loyal,0
+16932,Occasional Customers,1
+16933,Recent and Engaged,0
+16934,Occasional Customers,1
+16936,Recent Customers,1
+16938,High-Value Loyal,0
+16940,Frequent Customers,0
+16942,High-Value Loyal,0
+16943,Frequent Customers,1
+16945,High-Value Loyal,0
+16947,Potentially Inactive,1
+16948,Previously Active Customers,1
+16949,High-Value Loyal,0
+16950,Frequent Customers,1
+16951,Frequent Customers,1
+16952,Previously Active Customers,1
+16953,Recent Customers,1
+16954,High-Value Loyal,0
+16955,Frequent Customers,1
+16956,Recent Customers,1
+16957,Previously Active Customers,1
+16959,Potentially Inactive,1
+16960,Frequent Customers,1
+16961,Potentially Inactive,1
+16963,Potentially Inactive,1
+16965,Potentially Inactive,1
+16966,High-Value Loyal,0
+16967,Potentially Inactive,1
+16968,Recent and Engaged,0
+16969,Frequent Customers,1
+16971,Occasional Customers,1
+16976,Potentially Inactive,1
+16978,Potentially Inactive,1
+16979,High-Value Loyal,0
+16980,Previously Active Customers,1
+16982,Occasional Customers,1
+16983,High-Value Loyal,0
+16984,Previously Active Customers,0
+16985,High-Value Loyal,0
+16986,Recent and Engaged,0
+16987,High-Value Loyal,0
+16988,Recent Customers,1
+16989,High-Value Loyal,0
+16990,Potentially Inactive,1
+16992,High-Value Loyal,0
+16996,High-Value Loyal,0
+16997,Frequent Customers,1
+16998,Previously Active Customers,1
+16999,Recent and Engaged,1
+17001,High-Value Loyal,0
+17002,Frequent Customers,1
+17004,Occasional Customers,1
+17006,Recent and Engaged,0
+17007,Frequent Customers,0
+17010,Recent Customers,1
+17011,Recent Customers,1
+17014,Recent and Engaged,0
+17015,High-Value Loyal,0
+17017,High-Value Loyal,0
+17018,Occasional Customers,1
+17019,High-Value Loyal,0
+17022,Recent Customers,1
+17024,Occasional Customers,1
+17025,Occasional Customers,1
+17026,Previously Active Customers,1
+17027,Frequent Customers,0
+17029,Previously Active Customers,1
+17030,Occasional Customers,1
+17031,Recent and Engaged,1
+17033,Frequent Customers,1
+17034,Recent and Engaged,0
+17035,Previously Active Customers,1
+17037,Potentially Inactive,1
+17038,Recent Customers,1
+17040,Potentially Inactive,1
+17041,High-Value Loyal,0
+17042,High-Value Loyal,0
+17043,Frequent Customers,0
+17044,Recent Customers,1
+17045,Previously Active Customers,1
+17046,Potentially Inactive,1
+17047,Frequent Customers,1
+17048,Frequent Customers,1
+17049,High-Value Loyal,0
+17050,Frequent Customers,0
+17051,Potentially Inactive,1
+17052,Recent Customers,1
+17053,Potentially Inactive,1
+17054,High-Value Loyal,0
+17058,Frequent Customers,1
+17059,High-Value Loyal,0
+17060,Potentially Inactive,1
+17061,Frequent Customers,0
+17062,Frequent Customers,1
+17063,High-Value Loyal,0
+17064,Frequent Customers,1
+17068,High-Value Loyal,0
+17069,High-Value Loyal,0
+17070,Potentially Inactive,1
+17071,High-Value Loyal,0
+17073,High-Value Loyal,0
+17075,Recent and Engaged,0
+17076,Frequent Customers,1
+17078,Occasional Customers,1
+17079,Potentially Inactive,1
+17080,Recent and Engaged,1
+17081,Recent and Engaged,1
+17082,Occasional Customers,0
+17083,Frequent Customers,1
+17084,Occasional Customers,0
+17085,Frequent Customers,0
+17086,High-Value Loyal,0
+17088,High-Value Loyal,0
+17090,High-Value Loyal,0
+17091,High-Value Loyal,0
+17092,Frequent Customers,0
+17094,Potentially Inactive,1
+17095,High-Value Loyal,0
+17096,High-Value Loyal,0
+17097,High-Value Loyal,0
+17100,Recent and Engaged,1
+17101,High-Value Loyal,0
+17102,Potentially Inactive,1
+17105,Previously Active Customers,1
+17107,Frequent Customers,0
+17109,Recent and Engaged,0
+17110,Potentially Inactive,1
+17111,Occasional Customers,1
+17114,Recent and Engaged,0
+17115,Recent and Engaged,0
+17117,Potentially Inactive,1
+17118,Potentially Inactive,1
+17119,Recent and Engaged,0
+17120,Potentially Inactive,1
+17122,Potentially Inactive,1
+17123,Potentially Inactive,1
+17124,Potentially Inactive,1
+17125,Occasional Customers,1
+17126,Frequent Customers,1
+17128,Potentially Inactive,1
+17131,High-Value Loyal,0
+17133,High-Value Loyal,0
+17134,Previously Active Customers,1
+17135,High-Value Loyal,0
+17138,Potentially Inactive,1
+17139,High-Value Loyal,0
+17140,Potentially Inactive,1
+17142,Potentially Inactive,1
+17144,Recent and Engaged,0
+17146,Frequent Customers,1
+17147,High-Value Loyal,0
+17148,Occasional Customers,1
+17152,Frequent Customers,1
+17153,Recent Customers,1
+17154,Potentially Inactive,1
+17155,Recent and Engaged,1
+17157,Recent and Engaged,1
+17158,Frequent Customers,0
+17159,High-Value Loyal,0
+17160,High-Value Loyal,0
+17162,High-Value Loyal,0
+17163,Recent and Engaged,1
+17164,Frequent Customers,0
+17165,Potentially Inactive,1
+17166,Occasional Customers,1
+17169,Occasional Customers,1
+17171,Potentially Inactive,1
+17172,Potentially Inactive,1
+17173,High-Value Loyal,0
+17174,Potentially Inactive,1
+17175,Frequent Customers,0
+17176,Potentially Inactive,1
+17179,Frequent Customers,1
+17180,Frequent Customers,1
+17181,Occasional Customers,1
+17183,High-Value Loyal,0
+17186,Occasional Customers,1
+17187,Potentially Inactive,1
+17188,High-Value Loyal,0
+17189,Previously Active Customers,1
+17190,Occasional Customers,1
+17191,High-Value Loyal,0
+17193,Frequent Customers,0
+17194,Previously Active Customers,1
+17197,Recent Customers,1
+17198,Recent and Engaged,1
+17201,Occasional Customers,1
+17203,Frequent Customers,0
+17204,Frequent Customers,1
+17205,Occasional Customers,1
+17206,Occasional Customers,1
+17211,High-Value Loyal,0
+17212,Potentially Inactive,1
+17213,Frequent Customers,0
+17214,Frequent Customers,0
+17217,Potentially Inactive,1
+17218,High-Value Loyal,0
+17219,Recent Customers,1
+17220,High-Value Loyal,0
+17221,Recent and Engaged,1
+17222,Occasional Customers,1
+17223,Previously Active Customers,1
+17226,Potentially Inactive,1
+17227,High-Value Loyal,0
+17228,High-Value Loyal,0
+17229,Previously Active Customers,1
+17230,Frequent Customers,0
+17231,High-Value Loyal,0
+17232,Recent and Engaged,0
+17233,Occasional Customers,1
+17234,Potentially Inactive,1
+17235,Recent and Engaged,1
+17236,Recent and Engaged,0
+17237,Recent and Engaged,1
+17238,High-Value Loyal,0
+17239,Potentially Inactive,1
+17242,Previously Active Customers,1
+17243,High-Value Loyal,0
+17244,Occasional Customers,1
+17245,Potentially Inactive,1
+17247,Recent Customers,1
+17248,Potentially Inactive,1
+17250,Recent and Engaged,0
+17251,Potentially Inactive,1
+17252,Previously Active Customers,1
+17253,Recent Customers,1
+17254,Recent and Engaged,1
+17255,Occasional Customers,1
+17256,Previously Active Customers,1
+17259,Previously Active Customers,1
+17262,Frequent Customers,0
+17263,Potentially Inactive,1
+17265,Previously Active Customers,1
+17266,Recent and Engaged,0
+17267,Previously Active Customers,1
+17268,Frequent Customers,1
+17272,Frequent Customers,0
+17274,Occasional Customers,1
+17277,Previously Active Customers,1
+17278,Potentially Inactive,1
+17279,Occasional Customers,1
+17282,Frequent Customers,1
+17284,Frequent Customers,0
+17286,Recent Customers,1
+17287,High-Value Loyal,0
+17288,High-Value Loyal,0
+17289,Recent and Engaged,0
+17290,Recent and Engaged,0
+17291,Potentially Inactive,1
+17293,High-Value Loyal,0
+17295,Recent and Engaged,1
+17297,Recent Customers,1
+17298,Previously Active Customers,1
+17299,Recent and Engaged,0
+17301,Recent Customers,1
+17302,High-Value Loyal,0
+17303,Potentially Inactive,1
+17306,High-Value Loyal,0
+17309,Potentially Inactive,1
+17311,Previously Active Customers,1
+17312,Frequent Customers,1
+17313,Recent Customers,1
+17314,High-Value Loyal,0
+17315,High-Value Loyal,0
+17317,Frequent Customers,0
+17320,Frequent Customers,1
+17321,Recent and Engaged,0
+17323,Recent and Engaged,0
+17324,High-Value Loyal,0
+17325,Potentially Inactive,1
+17329,Recent and Engaged,1
+17330,Recent and Engaged,1
+17331,Potentially Inactive,1
+17333,Potentially Inactive,1
+17334,Previously Active Customers,1
+17337,Frequent Customers,1
+17338,High-Value Loyal,0
+17339,Previously Active Customers,1
+17340,High-Value Loyal,0
+17341,Frequent Customers,1
+17343,Potentially Inactive,1
+17344,Occasional Customers,1
+17345,Recent and Engaged,0
+17346,High-Value Loyal,0
+17347,Potentially Inactive,1
+17348,High-Value Loyal,0
+17349,Potentially Inactive,1
+17350,High-Value Loyal,0
+17351,Frequent Customers,1
+17353,Previously Active Customers,1
+17354,Occasional Customers,1
+17356,Potentially Inactive,1
+17357,Recent and Engaged,1
+17358,Previously Active Customers,1
+17359,Recent Customers,1
+17360,Recent and Engaged,1
+17361,Frequent Customers,1
+17362,Previously Active Customers,1
+17364,High-Value Loyal,0
+17365,High-Value Loyal,0
+17367,Potentially Inactive,1
+17368,High-Value Loyal,0
+17370,Previously Active Customers,1
+17371,Recent and Engaged,1
+17372,Frequent Customers,0
+17373,Frequent Customers,1
+17374,Previously Active Customers,1
+17375,Previously Active Customers,1
+17376,Occasional Customers,1
+17377,High-Value Loyal,0
+17379,Recent Customers,1
+17381,High-Value Loyal,0
+17382,Occasional Customers,1
+17383,Recent Customers,1
+17384,Recent and Engaged,1
+17385,Recent Customers,1
+17386,High-Value Loyal,0
+17387,Recent and Engaged,1
+17388,Frequent Customers,0
+17389,High-Value Loyal,0
+17391,Previously Active Customers,1
+17392,Previously Active Customers,1
+17394,Potentially Inactive,1
+17396,Frequent Customers,0
+17397,Recent and Engaged,1
+17398,Frequent Customers,1
+17400,Frequent Customers,0
+17402,High-Value Loyal,0
+17403,Occasional Customers,1
+17404,High-Value Loyal,0
+17405,High-Value Loyal,0
+17406,Frequent Customers,1
+17408,Potentially Inactive,1
+17409,Previously Active Customers,1
+17410,High-Value Loyal,0
+17411,Recent and Engaged,0
+17412,High-Value Loyal,0
+17414,Occasional Customers,1
+17415,Potentially Inactive,1
+17416,High-Value Loyal,0
+17418,Occasional Customers,1
+17419,High-Value Loyal,0
+17420,Frequent Customers,1
+17422,High-Value Loyal,0
+17423,Occasional Customers,1
+17425,Recent and Engaged,1
+17426,High-Value Loyal,0
+17427,Occasional Customers,1
+17428,High-Value Loyal,0
+17429,Frequent Customers,1
+17430,Occasional Customers,1
+17431,Potentially Inactive,1
+17432,Recent and Engaged,1
+17433,Potentially Inactive,1
+17434,High-Value Loyal,0
+17436,Recent and Engaged,0
+17438,Potentially Inactive,1
+17440,Previously Active Customers,1
+17442,Frequent Customers,0
+17443,Potentially Inactive,1
+17444,Frequent Customers,1
+17446,Previously Active Customers,1
+17447,Occasional Customers,1
+17449,High-Value Loyal,0
+17450,High-Value Loyal,0
+17451,High-Value Loyal,0
+17453,Recent and Engaged,1
+17454,Frequent Customers,1
+17455,Potentially Inactive,1
+17456,Potentially Inactive,1
+17457,Frequent Customers,0
+17458,Recent Customers,1
+17459,Occasional Customers,1
+17460,Frequent Customers,1
+17461,Recent and Engaged,0
+17462,Occasional Customers,1
+17463,High-Value Loyal,0
+17464,Potentially Inactive,1
+17466,Recent and Engaged,0
+17468,Recent and Engaged,1
+17469,High-Value Loyal,0
+17470,Frequent Customers,0
+17472,Frequent Customers,1
+17475,Potentially Inactive,1
+17480,Potentially Inactive,1
+17481,High-Value Loyal,0
+17483,Occasional Customers,1
+17486,Potentially Inactive,1
+17489,Occasional Customers,1
+17490,High-Value Loyal,0
+17491,High-Value Loyal,0
+17492,Potentially Inactive,1
+17495,Recent and Engaged,1
+17496,Potentially Inactive,1
+17498,Potentially Inactive,1
+17499,Potentially Inactive,1
+17500,High-Value Loyal,0
+17501,Previously Active Customers,1
+17502,Recent and Engaged,0
+17503,Recent and Engaged,0
+17504,Frequent Customers,0
+17505,Previously Active Customers,1
+17506,Potentially Inactive,1
+17507,Previously Active Customers,1
+17508,Potentially Inactive,1
+17509,Frequent Customers,0
+17510,Recent Customers,1
+17511,High-Value Loyal,0
+17512,High-Value Loyal,0
+17513,Potentially Inactive,1
+17514,Potentially Inactive,1
+17515,Recent and Engaged,0
+17516,Recent and Engaged,0
+17517,Potentially Inactive,1
+17519,High-Value Loyal,0
+17520,Occasional Customers,1
+17521,Recent and Engaged,1
+17522,High-Value Loyal,0
+17523,Recent and Engaged,0
+17524,Potentially Inactive,1
+17525,Potentially Inactive,1
+17526,High-Value Loyal,0
+17527,Frequent Customers,0
+17528,High-Value Loyal,0
+17530,High-Value Loyal,0
+17531,Potentially Inactive,1
+17534,Occasional Customers,1
+17535,Potentially Inactive,1
+17536,Potentially Inactive,1
+17537,Recent and Engaged,1
+17538,Recent Customers,1
+17540,Recent and Engaged,1
+17542,Potentially Inactive,1
+17545,Frequent Customers,1
+17548,Potentially Inactive,1
+17549,Recent and Engaged,1
+17550,Previously Active Customers,1
+17551,Potentially Inactive,1
+17552,Frequent Customers,1
+17553,Potentially Inactive,1
+17554,High-Value Loyal,0
+17555,Recent and Engaged,1
+17556,Potentially Inactive,1
+17557,Recent and Engaged,0
+17560,Frequent Customers,1
+17561,Recent Customers,1
+17562,High-Value Loyal,0
+17564,Recent and Engaged,1
+17566,Recent and Engaged,0
+17567,High-Value Loyal,0
+17569,Potentially Inactive,1
+17571,Frequent Customers,0
+17572,Previously Active Customers,1
+17573,Recent and Engaged,1
+17574,Potentially Inactive,1
+17576,High-Value Loyal,0
+17578,Potentially Inactive,1
+17579,Recent and Engaged,0
+17580,Previously Active Customers,1
+17581,High-Value Loyal,0
+17582,Potentially Inactive,1
+17584,Recent and Engaged,0
+17585,Frequent Customers,1
+17588,Frequent Customers,1
+17589,Frequent Customers,0
+17590,High-Value Loyal,0
+17591,Frequent Customers,0
+17593,High-Value Loyal,0
+17594,Previously Active Customers,1
+17595,Recent and Engaged,1
+17596,High-Value Loyal,0
+17597,Potentially Inactive,1
+17600,Recent Customers,1
+17601,Potentially Inactive,1
+17602,High-Value Loyal,0
+17603,Potentially Inactive,1
+17604,Previously Active Customers,1
+17608,Occasional Customers,1
+17609,Frequent Customers,0
+17611,High-Value Loyal,0
+17612,Frequent Customers,0
+17613,High-Value Loyal,0
+17614,Occasional Customers,1
+17615,Previously Active Customers,1
+17616,Frequent Customers,1
+17618,Recent and Engaged,0
+17619,Potentially Inactive,1
+17620,Occasional Customers,1
+17621,High-Value Loyal,0
+17623,Occasional Customers,1
+17624,Recent and Engaged,1
+17625,High-Value Loyal,0
+17628,Potentially Inactive,1
+17629,High-Value Loyal,0
+17630,Previously Active Customers,1
+17631,Recent and Engaged,0
+17633,High-Value Loyal,0
+17634,Frequent Customers,0
+17636,Recent Customers,1
+17637,Recent and Engaged,1
+17639,Potentially Inactive,1
+17640,Potentially Inactive,1
+17642,Previously Active Customers,1
+17643,Potentially Inactive,1
+17644,High-Value Loyal,0
+17646,Frequent Customers,1
+17647,Occasional Customers,1
+17648,Frequent Customers,0
+17649,Potentially Inactive,1
+17650,Recent Customers,1
+17651,High-Value Loyal,0
+17652,High-Value Loyal,0
+17653,Frequent Customers,0
+17654,Potentially Inactive,1
+17655,High-Value Loyal,0
+17656,Frequent Customers,0
+17658,Recent and Engaged,1
+17659,High-Value Loyal,0
+17660,Potentially Inactive,1
+17663,High-Value Loyal,0
+17664,Recent and Engaged,1
+17666,Recent and Engaged,0
+17667,Frequent Customers,0
+17668,Recent and Engaged,0
+17669,Frequent Customers,0
+17670,Potentially Inactive,1
+17671,High-Value Loyal,0
+17672,Occasional Customers,0
+17673,High-Value Loyal,0
+17674,Previously Active Customers,1
+17675,High-Value Loyal,0
+17676,High-Value Loyal,0
+17677,High-Value Loyal,0
+17678,Potentially Inactive,1
+17679,Occasional Customers,1
+17680,Recent Customers,1
+17682,High-Value Loyal,0
+17684,Occasional Customers,1
+17685,High-Value Loyal,0
+17686,High-Value Loyal,0
+17690,High-Value Loyal,0
+17691,Previously Active Customers,1
+17692,Frequent Customers,1
+17693,Potentially Inactive,1
+17694,Potentially Inactive,1
+17695,Previously Active Customers,1
+17696,Frequent Customers,0
+17697,Potentially Inactive,1
+17698,Potentially Inactive,1
+17700,High-Value Loyal,0
+17701,Potentially Inactive,1
+17702,High-Value Loyal,0
+17703,Frequent Customers,1
+17704,Previously Active Customers,1
+17705,High-Value Loyal,0
+17706,High-Value Loyal,0
+17707,Previously Active Customers,1
+17708,Previously Active Customers,1
+17709,Potentially Inactive,1
+17711,Recent and Engaged,1
+17712,Occasional Customers,1
+17714,Potentially Inactive,1
+17715,Potentially Inactive,1
+17716,High-Value Loyal,0
+17718,Potentially Inactive,1
+17719,Frequent Customers,0
+17720,High-Value Loyal,0
+17722,Frequent Customers,0
+17723,Frequent Customers,0
+17724,Frequent Customers,1
+17725,High-Value Loyal,0
+17727,Recent Customers,1
+17728,High-Value Loyal,0
+17730,High-Value Loyal,0
+17731,Frequent Customers,1
+17732,Potentially Inactive,1
+17733,Occasional Customers,1
+17734,Frequent Customers,1
+17735,High-Value Loyal,0
+17736,Recent and Engaged,0
+17737,Recent and Engaged,1
+17738,High-Value Loyal,0
+17739,High-Value Loyal,0
+17742,Previously Active Customers,1
+17744,High-Value Loyal,0
+17746,Potentially Inactive,1
+17747,Potentially Inactive,1
+17749,Previously Active Customers,1
+17750,High-Value Loyal,0
+17752,Potentially Inactive,1
+17754,High-Value Loyal,0
+17757,High-Value Loyal,0
+17758,High-Value Loyal,0
+17759,Recent and Engaged,0
+17760,Recent and Engaged,1
+17761,Occasional Customers,1
+17763,Potentially Inactive,1
+17764,Occasional Customers,1
+17765,Previously Active Customers,1
+17767,Recent Customers,1
+17768,High-Value Loyal,0
+17769,High-Value Loyal,0
+17770,Frequent Customers,1
+17771,Occasional Customers,1
+17772,Recent and Engaged,1
+17774,Frequent Customers,1
+17775,Potentially Inactive,1
+17777,Recent and Engaged,1
+17779,Recent and Engaged,1
+17781,Previously Active Customers,1
+17783,Previously Active Customers,1
+17785,Occasional Customers,1
+17786,Previously Active Customers,1
+17787,Frequent Customers,1
+17788,Previously Active Customers,1
+17789,Potentially Inactive,1
+17790,High-Value Loyal,0
+17791,Recent Customers,1
+17793,Recent Customers,1
+17795,Previously Active Customers,1
+17796,Frequent Customers,1
+17797,Recent and Engaged,0
+17799,High-Value Loyal,0
+17800,Frequent Customers,0
+17802,Frequent Customers,1
+17805,Potentially Inactive,1
+17806,Recent Customers,1
+17809,High-Value Loyal,0
+17811,High-Value Loyal,0
+17812,Recent and Engaged,0
+17813,High-Value Loyal,0
+17816,Occasional Customers,1
+17817,Recent and Engaged,0
+17819,Frequent Customers,0
+17824,Occasional Customers,1
+17827,High-Value Loyal,0
+17828,High-Value Loyal,0
+17829,Potentially Inactive,1
+17830,Recent and Engaged,0
+17831,Occasional Customers,1
+17832,Occasional Customers,1
+17835,Recent and Engaged,0
+17836,Occasional Customers,1
+17837,Frequent Customers,0
+17838,High-Value Loyal,0
+17839,Occasional Customers,1
+17841,High-Value Loyal,0
+17843,Potentially Inactive,1
+17844,Potentially Inactive,1
+17846,Potentially Inactive,1
+17848,Frequent Customers,0
+17849,Frequent Customers,1
+17850,Frequent Customers,0
+17852,Recent and Engaged,1
+17854,Previously Active Customers,1
+17855,Potentially Inactive,1
+17856,High-Value Loyal,0
+17857,High-Value Loyal,0
+17858,High-Value Loyal,0
+17859,Potentially Inactive,1
+17860,Potentially Inactive,1
+17861,High-Value Loyal,0
+17862,Potentially Inactive,1
+17863,Frequent Customers,0
+17864,Recent and Engaged,0
+17865,High-Value Loyal,0
+17866,Potentially Inactive,1
+17867,High-Value Loyal,0
+17869,Previously Active Customers,1
+17870,High-Value Loyal,0
+17871,Potentially Inactive,1
+17873,Frequent Customers,0
+17874,Frequent Customers,1
+17877,Potentially Inactive,1
+17878,Occasional Customers,1
+17879,Potentially Inactive,1
+17880,Potentially Inactive,1
+17881,Potentially Inactive,1
+17883,Recent and Engaged,0
+17884,Recent and Engaged,0
+17885,Recent Customers,1
+17886,Recent and Engaged,1
+17887,Potentially Inactive,1
+17888,Recent and Engaged,0
+17889,Previously Active Customers,1
+17890,Previously Active Customers,1
+17891,Potentially Inactive,1
+17892,Occasional Customers,1
+17893,Potentially Inactive,1
+17894,Frequent Customers,0
+17895,Occasional Customers,1
+17896,Recent Customers,1
+17897,Frequent Customers,1
+17898,Previously Active Customers,1
+17899,Potentially Inactive,1
+17900,Previously Active Customers,1
+17901,Recent Customers,1
+17904,Recent Customers,1
+17905,Frequent Customers,1
+17906,Potentially Inactive,1
+17908,Potentially Inactive,1
+17911,Recent Customers,1
+17912,Previously Active Customers,1
+17913,Occasional Customers,1
+17914,Recent Customers,1
+17917,Occasional Customers,1
+17919,Potentially Inactive,1
+17920,High-Value Loyal,0
+17921,Frequent Customers,1
+17923,Potentially Inactive,1
+17924,High-Value Loyal,0
+17925,Potentially Inactive,1
+17926,Previously Active Customers,1
+17928,Occasional Customers,1
+17929,Recent and Engaged,0
+17930,Frequent Customers,0
+17931,Previously Active Customers,1
+17932,High-Value Loyal,0
+17934,Occasional Customers,1
+17935,Previously Active Customers,1
+17936,Recent Customers,1
+17937,High-Value Loyal,0
+17939,Potentially Inactive,1
+17940,Frequent Customers,0
+17941,Potentially Inactive,1
+17942,Recent Customers,1
+17946,Previously Active Customers,1
+17947,Occasional Customers,1
+17948,Potentially Inactive,1
+17949,High-Value Loyal,0
+17950,Previously Active Customers,1
+17951,Frequent Customers,1
+17954,High-Value Loyal,0
+17955,Frequent Customers,1
+17956,Potentially Inactive,1
+17957,Occasional Customers,1
+17958,Potentially Inactive,1
+17960,Potentially Inactive,1
+17961,High-Value Loyal,0
+17962,Potentially Inactive,1
+17964,Recent and Engaged,1
+17965,Frequent Customers,0
+17966,Frequent Customers,0
+17967,Potentially Inactive,1
+17968,Potentially Inactive,1
+17969,Previously Active Customers,1
+17970,Potentially Inactive,1
+17972,Potentially Inactive,1
+17973,Occasional Customers,1
+17974,Recent and Engaged,1
+17975,High-Value Loyal,0
+17976,Potentially Inactive,1
+17977,Recent Customers,1
+17978,Potentially Inactive,1
+17979,Frequent Customers,0
+17980,Frequent Customers,1
+17984,Potentially Inactive,1
+17985,Recent Customers,1
+17986,Occasional Customers,1
+17987,Potentially Inactive,1
+17988,Recent and Engaged,0
+17990,Frequent Customers,1
+17991,Previously Active Customers,1
+17994,Frequent Customers,1
+17995,Potentially Inactive,1
+17997,Frequent Customers,0
+17999,Occasional Customers,1
+18001,Recent and Engaged,1
+18004,Potentially Inactive,1
+18005,Recent and Engaged,1
+18006,Recent Customers,1
+18008,Frequent Customers,0
+18009,Potentially Inactive,1
+18010,Potentially Inactive,1
+18011,Potentially Inactive,1
+18013,Previously Active Customers,1
+18014,Recent Customers,1
+18015,Recent Customers,1
+18016,Frequent Customers,0
+18017,Frequent Customers,1
+18018,Previously Active Customers,1
+18019,Occasional Customers,1
+18022,Occasional Customers,1
+18024,Previously Active Customers,1
+18027,Potentially Inactive,1
+18030,Recent and Engaged,1
+18032,Potentially Inactive,1
+18033,Occasional Customers,1
+18034,Recent and Engaged,1
+18035,Frequent Customers,1
+18036,Occasional Customers,1
+18037,Previously Active Customers,1
+18040,Recent and Engaged,1
+18041,High-Value Loyal,0
+18042,Occasional Customers,1
+18043,Recent and Engaged,1
+18044,High-Value Loyal,0
+18045,Occasional Customers,1
+18048,Previously Active Customers,1
+18050,Potentially Inactive,1
+18053,Occasional Customers,1
+18055,High-Value Loyal,0
+18056,Potentially Inactive,1
+18058,Recent Customers,1
+18059,Recent and Engaged,1
+18061,High-Value Loyal,0
+18062,Frequent Customers,1
+18064,Previously Active Customers,1
+18065,High-Value Loyal,0
+18066,Potentially Inactive,1
+18067,Occasional Customers,1
+18068,Potentially Inactive,1
+18069,High-Value Loyal,0
+18071,Previously Active Customers,1
+18072,Potentially Inactive,1
+18073,Frequent Customers,0
+18074,Potentially Inactive,1
+18075,High-Value Loyal,0
+18077,High-Value Loyal,0
+18078,Previously Active Customers,1
+18079,Frequent Customers,0
+18080,Recent and Engaged,0
+18081,Occasional Customers,1
+18082,Recent Customers,1
+18084,Recent Customers,1
+18085,Previously Active Customers,1
+18086,Potentially Inactive,1
+18087,Previously Active Customers,1
+18088,Occasional Customers,1
+18092,High-Value Loyal,0
+18093,Frequent Customers,0
+18094,Frequent Customers,0
+18095,Previously Active Customers,1
+18096,Recent and Engaged,0
+18097,High-Value Loyal,0
+18099,Potentially Inactive,1
+18101,Recent and Engaged,1
+18102,High-Value Loyal,0
+18104,Occasional Customers,1
+18105,Occasional Customers,1
+18106,Potentially Inactive,1
+18108,Potentially Inactive,1
+18109,High-Value Loyal,0
+18110,Recent Customers,1
+18112,Recent and Engaged,1
+18113,Potentially Inactive,1
+18114,Potentially Inactive,1
+18116,Frequent Customers,0
+18117,Recent Customers,1
+18118,High-Value Loyal,0
+18119,Potentially Inactive,1
+18120,Potentially Inactive,1
+18121,Previously Active Customers,1
+18122,High-Value Loyal,0
+18123,Recent and Engaged,1
+18125,High-Value Loyal,0
+18126,Occasional Customers,1
+18127,Recent and Engaged,1
+18129,Potentially Inactive,1
+18130,High-Value Loyal,0
+18133,Potentially Inactive,1
+18135,Recent and Engaged,0
+18136,Frequent Customers,1
+18138,Potentially Inactive,1
+18139,High-Value Loyal,0
+18142,Previously Active Customers,1
+18143,Previously Active Customers,1
+18144,High-Value Loyal,0
+18145,High-Value Loyal,0
+18146,Previously Active Customers,1
+18147,Occasional Customers,1
+18149,Frequent Customers,1
+18150,Frequent Customers,1
+18151,Previously Active Customers,1
+18154,Recent and Engaged,0
+18155,Previously Active Customers,1
+18156,Recent and Engaged,1
+18158,Recent and Engaged,1
+18159,Potentially Inactive,1
+18160,Occasional Customers,1
+18161,High-Value Loyal,0
+18164,Occasional Customers,1
+18165,Potentially Inactive,1
+18167,High-Value Loyal,0
+18168,Frequent Customers,1
+18169,Occasional Customers,1
+18170,Frequent Customers,0
+18171,Frequent Customers,0
+18172,High-Value Loyal,0
+18173,Frequent Customers,0
+18174,Recent Customers,1
+18176,Potentially Inactive,1
+18177,High-Value Loyal,0
+18178,Frequent Customers,1
+18179,High-Value Loyal,0
+18180,High-Value Loyal,0
+18181,Recent Customers,1
+18183,Previously Active Customers,1
+18184,Recent Customers,1
+18185,Potentially Inactive,1
+18188,High-Value Loyal,0
+18189,Previously Active Customers,1
+18190,Previously Active Customers,1
+18191,Potentially Inactive,1
+18192,Potentially Inactive,1
+18193,Potentially Inactive,1
+18194,Potentially Inactive,1
+18196,Previously Active Customers,1
+18198,High-Value Loyal,0
+18200,Potentially Inactive,1
+18202,Frequent Customers,1
+18203,Potentially Inactive,1
+18204,Frequent Customers,0
+18205,Occasional Customers,1
+18209,Recent Customers,1
+18210,High-Value Loyal,0
+18211,Recent and Engaged,0
+18212,Potentially Inactive,1
+18213,Potentially Inactive,1
+18215,Potentially Inactive,1
+18216,Recent Customers,1
+18217,Recent and Engaged,1
+18218,Previously Active Customers,1
+18219,High-Value Loyal,0
+18220,Potentially Inactive,1
+18221,High-Value Loyal,0
+18222,Potentially Inactive,1
+18223,High-Value Loyal,0
+18224,Potentially Inactive,1
+18225,High-Value Loyal,0
+18226,Frequent Customers,0
+18227,Potentially Inactive,1
+18228,Occasional Customers,1
+18229,High-Value Loyal,0
+18230,High-Value Loyal,0
+18231,Frequent Customers,0
+18232,Frequent Customers,1
+18233,Potentially Inactive,1
+18235,Frequent Customers,1
+18236,Recent and Engaged,0
+18237,High-Value Loyal,0
+18239,Frequent Customers,1
+18240,Occasional Customers,1
+18241,High-Value Loyal,0
+18242,Frequent Customers,0
+18245,High-Value Loyal,0
+18246,Recent and Engaged,1
+18248,Previously Active Customers,1
+18249,Recent Customers,1
+18250,Potentially Inactive,1
+18251,Potentially Inactive,1
+18252,Occasional Customers,1
+18255,Potentially Inactive,1
+18257,Frequent Customers,0
+18259,High-Value Loyal,0
+18260,Frequent Customers,0
+18261,Occasional Customers,1
+18262,Potentially Inactive,1
+18263,High-Value Loyal,0
+18265,Previously Active Customers,1
+18268,Potentially Inactive,1
+18269,Potentially Inactive,1
+18270,Occasional Customers,1
+18272,High-Value Loyal,0
+18273,Recent and Engaged,0
+18274,Recent Customers,1
+18276,Occasional Customers,1
+18277,Occasional Customers,1
+18278,Potentially Inactive,1
+18280,Potentially Inactive,1
+18281,Potentially Inactive,1
+18282,Recent and Engaged,1
+18283,High-Value Loyal,0
+18287,Frequent Customers,0

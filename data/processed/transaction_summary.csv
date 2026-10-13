@@ -1,0 +1,4 @@
+transaction_type,record_count,invoice_count,total_quantity,record_percentage
+Cancellation Invoice,9251,3836,-275560,1.72
+Negative Quantity,1336,1336,-206957,0.25
+Positive Quantity,526054,20728,5645019,98.03

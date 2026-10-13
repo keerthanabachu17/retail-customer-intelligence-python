@@ -1,0 +1,3 @@
+Scenario,Record_Count,Sales_Value
+Positive-sales records including special descriptions,524878,10642110.8
+Positive-sales records excluding matched special descriptions,522403,10270233.19
